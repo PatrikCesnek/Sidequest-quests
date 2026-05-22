@@ -7289,6 +7289,21 @@
         "cs": "Získej povolení. Naplánuj to. Namaluj to. Podepíš to.",
         "sk": "Získaj povolenie. Naplánuj to. Namaľuj to. Podpíš to."
       }
+    },
+    {
+      "id": "bsc074",
+      "category": "creative",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Stranger's Tattoo",
+        "cs": "Tetování od cizince",
+        "sk": "Tetovanie od cudzinca"
+      },
+      "description": {
+        "en": "Let a stranger pick your next tattoo. Get it done.",
+        "cs": "Nech cizího vybrat ti další tetování. Nech si ho udělat.",
+        "sk": "Nechaj cudzieho vybrať ti ďalšie tetovanie. Daj si ho urobiť."
+      }
     }
   ]
 }
