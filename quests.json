@@ -7049,6 +7049,246 @@
         "cs": "Dělej všechno obráceně po dobu 24 hodin. Spi přes den, snídani k večeři, oblečení naruby, choď pozpátku.",
         "sk": "Rob všetko obrátene po dobu 24 hodín. Spi cez deň, raňajky k večeri, oblečenie naruby, choď pozadu."
       }
+    },
+    {
+      "id": "e061",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Spend 48 hours in a city with no phone and no plan",
+        "cs": "Stráv 48 hodin ve městě bez telefonu a bez plánu",
+        "sk": "Stráv 48 hodín v meste bez telefónu a bez plánu"
+      },
+      "description": {
+        "en": "No map, no GPS. Ask people. Figure it out.",
+        "cs": "Žádná mapa, žádné GPS. Ptej se lidí. Zvládni to.",
+        "sk": "Žiadna mapa, žiadne GPS. Pýtaj sa ľudí. Zvládni to."
+      }
+    },
+    {
+      "id": "e062",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Hitchhike to a destination at least 100km away",
+        "cs": "Stopni se na místo vzdálené aspoň 100 km",
+        "sk": "Stopni sa na miesto vzdialené aspoň 100 km"
+      },
+      "description": {
+        "en": "Just your thumb and a direction. Get there however you can.",
+        "cs": "Jen tvůj palec a směr. Dostaň se tam, jak dokážeš.",
+        "sk": "Len tvoj palec a smer. Dostaň sa tam, ako dokážeš."
+      }
+    },
+    {
+      "id": "e063",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Cross a national border on foot",
+        "cs": "Přejdi státní hranici pěšky",
+        "sk": "Prejdi štátnu hranicu pešo"
+      },
+      "description": {
+        "en": "Walk across. Legally. Stand in two countries.",
+        "cs": "Přejdi pěšky. Legálně. Stůj ve dvou zemích.",
+        "sk": "Prejdi pešo. Legálne. Stoj v dvoch krajinách."
+      }
+    },
+    {
+      "id": "e064",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Sleep somewhere with no shelter for two nights",
+        "cs": "Spi dvě noci bez přístřeší",
+        "sk": "Spi dve noci bez prístrešia"
+      },
+      "description": {
+        "en": "No tent, no roof, no car. Just you and the ground.",
+        "cs": "Žádný stan, žádná střecha, žádné auto. Jen ty a zem.",
+        "sk": "Žiadny stan, žiadna strecha, žiadne auto. Len ty a zem."
+      }
+    },
+    {
+      "id": "e065",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Navigate to a random GPS coordinate within 50km",
+        "cs": "Naviguj se na náhodnou GPS souřadnici do 50 km",
+        "sk": "Naviguj sa na náhodnú GPS súradnicu do 50 km"
+      },
+      "description": {
+        "en": "Generate it randomly. Go there. See what's there.",
+        "cs": "Vygeneruj ji náhodně. Jdi tam. Podívej se, co tam je.",
+        "sk": "Vygeneruj ju náhodne. Choď tam. Pozri sa, čo tam je."
+      }
+    },
+    {
+      "id": "c061",
+      "category": "culinary",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Cook a full dinner using only foraged ingredients",
+        "cs": "Uvař celou večeři jen z nasbíraných surovin",
+        "sk": "Uvar celú večeru len z nazbieraných surovín"
+      },
+      "description": {
+        "en": "No store. No garden. Only what nature gives you that day.",
+        "cs": "Žádný obchod. Žádná zahrada. Jen co ti příroda ten den dá.",
+        "sk": "Žiadny obchod. Žiadna záhrada. Len čo ti príroda ten deň dá."
+      }
+    },
+    {
+      "id": "c062",
+      "category": "culinary",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Eat the spiciest dish at a restaurant known for heat",
+        "cs": "Sněz nejpálivější jídlo v restauraci známé ostrostí",
+        "sk": "Zjedz najštipľavejšie jedlo v reštaurácii známej ostrosťou"
+      },
+      "description": {
+        "en": "Ask for the hottest thing they have. Finish it.",
+        "cs": "Požádej o to nejostřejší, co mají. Dokonči to.",
+        "sk": "Požiadaj o to najostrejšie, čo majú. Dokonči to."
+      }
+    },
+    {
+      "id": "c063",
+      "category": "culinary",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Prepare a whole fish — from gutting to plating",
+        "cs": "Připrav celou rybu — od vykuchání po servírování",
+        "sk": "Priprav celú rybu — od vypitvania po servírovanie"
+      },
+      "description": {
+        "en": "Buy it whole. Do everything yourself. Eat it.",
+        "cs": "Kup ji celou. Všechno udělej sám. Sněz ji.",
+        "sk": "Kúp ju celú. Všetko urob sám. Zjedz ju."
+      }
+    },
+    {
+      "id": "cr061",
+      "category": "creative",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Perform an original song in front of strangers",
+        "cs": "Zahraj vlastní píseň před cizími lidmi",
+        "sk": "Zahraj vlastnú pieseň pred cudzími ľuďmi"
+      },
+      "description": {
+        "en": "Write it. Learn it. Play it live. No safety net.",
+        "cs": "Napiš ji. Nauč se ji. Zahraj ji naživo. Bez záchranné sítě.",
+        "sk": "Napíš ju. Nauč sa ju. Zahraj ju naživo. Bez záchrannej siete."
+      }
+    },
+    {
+      "id": "cr062",
+      "category": "creative",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Spend 24 hours creating art without sleeping",
+        "cs": "Stráv 24 hodin tvorbou umění bez spánku",
+        "sk": "Stráv 24 hodín tvorbou umenia bez spánku"
+      },
+      "description": {
+        "en": "One medium. No breaks longer than 10 minutes.",
+        "cs": "Jedno médium. Žádné přestávky delší než 10 minut.",
+        "sk": "Jedno médium. Žiadne prestávky dlhšie ako 10 minút."
+      }
+    },
+    {
+      "id": "r041",
+      "category": "random",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Spend 48 hours without speaking a single word",
+        "cs": "Stráv 48 hodin bez jediného slova",
+        "sk": "Stráv 48 hodín bez jediného slova"
+      },
+      "description": {
+        "en": "Write if you must. But no voice.",
+        "cs": "Piš, pokud musíš. Ale žádný hlas.",
+        "sk": "Píš, ak musíš. Ale žiadny hlas."
+      }
+    },
+    {
+      "id": "r042",
+      "category": "random",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Give away something you love to a stranger",
+        "cs": "Daruj něco, co miluješ, cizímu člověku",
+        "sk": "Daruj niečo, čo miluješ, cudziemu človeku"
+      },
+      "description": {
+        "en": "Not junk. Something that matters to you.",
+        "cs": "Ne harampádí. Něco, na čem ti záleží.",
+        "sk": "Nie haraburdy. Niečo, na čom ti záleží."
+      }
+    },
+    {
+      "id": "s081",
+      "category": "social",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Ask a stranger for a brutally honest first impression of you",
+        "cs": "Požádej cizího člověka o brutálně upřímný první dojem z tebe",
+        "sk": "Požiadaj cudzieho človeka o brutálne úprimný prvý dojem z teba"
+      },
+      "description": {
+        "en": "Listen. Don't defend yourself.",
+        "cs": "Poslouchej. Neobhajuj se.",
+        "sk": "Počúvaj. Neobhajuj sa."
+      }
+    },
+    {
+      "id": "bsc071",
+      "category": "creative",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Build a life-sized sculpture and display it in public",
+        "cs": "Postav sochu v životní velikosti a vystav ji na veřejnosti",
+        "sk": "Postav sochu v životnej veľkosti a vystav ju na verejnosti"
+      },
+      "description": {
+        "en": "Any material. Has to survive at least one day outside.",
+        "cs": "Jakýkoli materiál. Musí přežít alespoň jeden den venku.",
+        "sk": "Akýkoľvek materiál. Musí prežiť aspoň jeden deň vonku."
+      }
+    },
+    {
+      "id": "bsc072",
+      "category": "creative",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Write and perform a one-person play for a live audience",
+        "cs": "Napiš a odehraj hru pro živé publikum sám",
+        "sk": "Napíš a odohraj hru pre živé publikum sám"
+      },
+      "description": {
+        "en": "At least 15 minutes. Real audience. No safety net.",
+        "cs": "Alespoň 15 minut. Skutečné publikum. Žádná záchranná síť.",
+        "sk": "Aspoň 15 minút. Skutočné publikum. Žiadna záchranná sieť."
+      }
+    },
+    {
+      "id": "bsc073",
+      "category": "creative",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Create a mural at least 3 metres wide on a legal wall",
+        "cs": "Vytvoř nástěnnou malbu širokou aspoň 3 metry na legální zdi",
+        "sk": "Vytvor nástennú maľbu širokú aspoň 3 metre na legálnej stene"
+      },
+      "description": {
+        "en": "Get permission. Plan it. Paint it. Sign it.",
+        "cs": "Získej povolení. Naplánuj to. Namaluj to. Podepíš to.",
+        "sk": "Získaj povolenie. Naplánuj to. Namaľuj to. Podpíš to."
+      }
     }
   ]
 }
