@@ -37,7 +37,7 @@
       "title": {
         "en": "Pull an engine from a scrap yard and make it run",
         "cs": "Vytáhni motor z vrakoviště a rozjeď ho",
-        "sk": "Vytiahni motor zo šrotu a rozbehnaj ho"
+        "sk": "Vytiahni motor zo šrotu a rozbehni ho"
       },
       "description": {
         "en": "Find a scrap yard. Negotiate. Extract. Get it running on a stand. Time limit: one weekend.",
@@ -716,8 +716,8 @@
       },
       "description": {
         "en": "Spend an entire night sleeping on a rooftop. Bring a sleeping bag, not a death wish.",
-        "cs": "Prospi celou noc na střeše. Vezmi si spacák, ne přání smrti.",
-        "sk": "Prespi celú noc na streche. Vezmi si spacák, nie prianie smrti."
+        "cs": "Prospi celou noc na střeše. Vezmi si spacák, ne přání zemřít.",
+        "sk": "Prespi celú noc na streche. Vezmi si spacák, nie prianie zomrieť."
       }
     },
     {
@@ -892,7 +892,7 @@
       "title": {
         "en": "Survive 24h in the Woods",
         "cs": "Přežij 24h v lese",
-        "sk": "Prežij 24h v lese"
+        "sk": "Preži 24h v lese"
       },
       "description": {
         "en": "Spend 24 hours alone in the woods with only a knife, water bottle, and a lighter. No phone.",
@@ -971,8 +971,8 @@
       },
       "description": {
         "en": "Eat a Carolina Reaper or equivalent world's hottest pepper. No milk for 5 minutes after.",
-        "cs": "Sněz Carolina Reaper nebo ekvivalentně nejpálivější papriku světa. Žádné mléko 5 minut poté.",
-        "sk": "Zjedz Carolina Reaper alebo ekvivalentne najštipľavejšiu papriku sveta. Žiadne mlieko 5 minút potom."
+        "cs": "Sněz Carolina Reaper nebo jinú podobne pálivou papričku. Žádné mléko 5 minut poté.",
+        "sk": "Zjedz Carolina Reaper alebo inú podobne štipľavú papričku. Žiadne mlieko 5 minút potom."
       }
     },
     {
@@ -1027,12 +1027,12 @@
       "title": {
         "en": "Swim Across a Lake",
         "cs": "Přeplav jezero",
-        "sk": "Preplav jazero"
+        "sk": "Preplávaj jazero"
       },
       "description": {
         "en": "Find a lake and swim across it. No life jacket, no boat following you. Pick one you can actually handle.",
         "cs": "Najdi jezero a přeplav ho. Žádná záchranná vesta, žádný člun za tebou. Vyber si takové, které zvládneš.",
-        "sk": "Nájdi jazero a preplav ho. Žiadna záchranná vesta, žiadny čln za tebou. Vyber si také, ktoré zvládneš."
+        "sk": "Nájdi jazero a preplávaj ho. Žiadna záchranná vesta, žiadny čln za tebou. Vyber si také, ktoré zvládneš."
       }
     },
     {
@@ -1122,7 +1122,7 @@
       "description": {
         "en": "No remote job? Make one. Edit videos while skydiving. Code during a rock climb. Take a client call from a paraglider. Go full BSC. Document everything.",
         "cs": "Nemáš práci na dálku? Zařiď si ji. Střihej videa při seskoku padákem. Kóduj při lezení. Ber hovor z paraglidingu. Jdi do toho naplno. Zdokumentuj vše.",
-        "sk": "Nemáš prácu na diaľku? Zariadi si ju. Strihaj videá pri skoku padákom. Kóduj pri lezení. Ber hovor z paraglidingu. Choď do toho naplno. Zdokumentuj všetko."
+        "sk": "Nemáš prácu na diaľku? Zariaď si ju. Strihaj videá pri skoku padákom. Kóduj pri lezení. Ber hovor z paraglidingu. Choď do toho naplno. Zdokumentuj všetko."
       }
     },
     {
@@ -1132,7 +1132,7 @@
       "title": {
         "en": "Lock a bike lock onto a stranger's bicycle",
         "cs": "Přivěs zámek na kolo cizího člověka",
-        "sk": "Privedni zámok na bicykel cudzieho človeka"
+        "sk": "Pripni zámok na bicykel cudzieho človeka"
       },
       "description": {
         "en": "Lock your own bike lock onto a random parked bicycle and walk away without raising suspision.",
@@ -1222,12 +1222,12 @@
       "title": {
         "en": "High-five a stranger",
         "cs": "Plácni si s cizím člověkem",
-        "sk": "Daj piatku cudzincovi"
+        "sk": "Daj high five cudzincovi"
       },
       "description": {
         "en": "Find someone and offer a high-five. Explain nothing.",
         "cs": "Najdi někoho a nabídni mu plácnutí. Nic nevysvětluj.",
-        "sk": "Nájdi niekoho a ponúkni mu piatku. Nič nevysvetľuj."
+        "sk": "Nájdi niekoho a ponúkni mu high five. Nič nevysvetľuj."
       }
     },
     {
@@ -1717,7 +1717,7 @@
       "title": {
         "en": "Make a friend laugh until they cry",
         "cs": "Rozesmej kamaráda tak, že se rozbrečí",
-        "sk": "Rozosmeji kamaráta, až sa rozplače"
+        "sk": "Rozosmej kamaráta, až sa rozplače"
       },
       "description": {
         "en": "No tickling.",
@@ -2166,8 +2166,8 @@
       "difficulty": "funAndSafe",
       "title": {
         "en": "Make a condiment that didn't exist before today",
-        "cs": "Vymysli koření, které do dneška neexistovalo",
-        "sk": "Vytvor koreninu, ktorá neexistovala pred dneškom"
+        "cs": "Vymysli dochucovadlo, které do dneška neexistovalo",
+        "sk": "Vytvor dochucovadlo, ktorá neexistovala pred dneškom"
       },
       "description": {
         "en": "Name it. Use it.",
@@ -2467,7 +2467,7 @@
       "title": {
         "en": "Carry something heavy for one kilometre",
         "cs": "Nes něco těžkého jeden kilometr",
-        "sk": "Nesú niečo ťažké jeden kilometer"
+        "sk": "Nes niečo ťažké jeden kilometer"
       },
       "description": {
         "en": "Groceries, sandbag, rocks — no wheels.",
@@ -2891,8 +2891,8 @@
       },
       "description": {
         "en": "Make it good anyway.",
-        "cs": "Udělej ho dobré stejně.",
-        "sk": "Urob ho dobré aj tak."
+        "cs": "Ať je dobré i tak.",
+        "sk": "Nech je dobré aj tak."
       }
     },
     {
@@ -2962,7 +2962,7 @@
       "title": {
         "en": "Carve something from soap or wood",
         "cs": "Vyřezej něco z mýdla nebo dřeva",
-        "sk": "Vyrezaj niečo z mydla alebo dreva"
+        "sk": "Vyrež niečo z mydla alebo dreva"
       },
       "description": {
         "en": "One hour. One object.",
@@ -2992,7 +2992,7 @@
       "title": {
         "en": "Create a photo series of one subject",
         "cs": "Vytvoř fotografickou sérii jednoho objektu",
-        "sk": "Vytvor fotosériou jedného objektu"
+        "sk": "Vytvor fotosériu jedného objektu"
       },
       "description": {
         "en": "10 photos. Same subject. Different perspectives.",
@@ -3022,7 +3022,7 @@
       "title": {
         "en": "Write a villain monologue for a movie that doesn't exist",
         "cs": "Napiš monolog záporáka pro film, který neexistuje",
-        "sk": "Napíš monológ zloduchova pre film, ktorý neexistuje"
+        "sk": "Napíš monológ zloducha pre film, ktorý neexistuje"
       },
       "description": {
         "en": "Deliver it once, to yourself.",
@@ -3072,7 +3072,7 @@
       "description": {
         "en": "Practise until you can fool someone.",
         "cs": "Trénuj, dokud s ním někoho neoklameš.",
-        "sk": "Cvič, kým niekoho neoklamia."
+        "sk": "Cvič, kým niekoho neoklameš."
       }
     },
     {
@@ -3297,7 +3297,7 @@
       "description": {
         "en": "Sketch it by hand.",
         "cs": "Nakresli ho rukou.",
-        "sk": "Nakreslí ho rukou."
+        "sk": "Nakresli ho rukou."
       }
     },
     {
@@ -4031,8 +4031,8 @@
       },
       "description": {
         "en": "Brakes, gears, chain, pressure.",
-        "cs": "Brzdy, řazení, řetěz, tlak.",
-        "sk": "Brzdy, prevodovka, reťaz, tlak."
+        "cs": "Brzdy, převody, řetěz, tlak.",
+        "sk": "Brzdy, prevody, reťaz, tlak."
       }
     },
     {
@@ -4971,8 +4971,8 @@
       "difficulty": "mildlyInconvenient",
       "title": {
         "en": "Go to a place of worship that isn't yours and just observe",
-        "cs": "Jdi do kostela, chrámu nebo mešity, která není tvoje, a jen pozoruj",
-        "sk": "Choď na bohoslužbu, ktorá nie je tvoja, a len pozoruj"
+        "cs": "Jdi do kostela, chrámu nebo mešity, jiného vírovyznání, a jen pozoruj",
+        "sk": "Choď na bohoslužbu, iného vierovyznania a len pozoruj"
       },
       "description": {
         "en": "Respectfully. With genuine curiosity.",
@@ -5187,7 +5187,7 @@
       "description": {
         "en": "Fold them properly. Cook them all. Eat most.",
         "cs": "Správně je zabal. Uvař všechny. Většinu sněz.",
-        "sk": "Zlepenaj ich poriadne. Uvar ich všetky. Väčšinu zjedz."
+        "sk": "Zabal ich poriadne. Uvar ich všetky. Väčšinu zjedz."
       }
     },
     {
@@ -5307,7 +5307,7 @@
       "description": {
         "en": "Safely. But spectacularly.",
         "cs": "Bezpečně. Ale velkolepě.",
-        "sk": "Bezpečne. Ale veľkolept."
+        "sk": "Bezpečne. Ale veľkolepo."
       }
     },
     {
@@ -5457,7 +5457,7 @@
       "description": {
         "en": "Real meal. Everyone eats.",
         "cs": "Opravdové jídlo. Každý se nají.",
-        "sk": "Skutočné jedlo. Každý jedia."
+        "sk": "Skutočné jedlo. Každý sa naje."
       }
     },
     {
@@ -5502,7 +5502,7 @@
       "description": {
         "en": "Not a pool. Outdoors. Somewhere wild.",
         "cs": "Ne v bazénu. Venku. Někde v přírodě.",
-        "sk": "Nie bazén. Vonku. Niekde divoké."
+        "sk": "Nie bazén. Vonku. Niekde v prírode."
       }
     },
     {
@@ -5512,7 +5512,7 @@
       "title": {
         "en": "Do a sunrise workout",
         "cs": "Zacvič si při východu slunce",
-        "sk": "Uran si ranný tréning pri východe slnka"
+        "sk": "Urob si tréning pri východe slnka"
       },
       "description": {
         "en": "Outside. Before the sun is fully up.",
@@ -5542,7 +5542,7 @@
       "title": {
         "en": "Do 1000 steps up stairs in one session",
         "cs": "Vyjdi 1000 schodů za jednu session",
-        "sk": "Vybehnaj 1000 schodov v jednej sérii"
+        "sk": "Vyjdi 1000 schodov v jednej sérii"
       },
       "description": {
         "en": "Office building, stadium, anywhere.",
@@ -5607,7 +5607,7 @@
       "description": {
         "en": "Find a hill. Go up it fast. Repeat.",
         "cs": "Najdi kopec. Běž ho rychle nahoru. Opakuj.",
-        "sk": "Nájdi kopec. Vybehnaj ho rýchlo. Opakuj."
+        "sk": "Nájdi kopec. Vybehni ho rýchlo. Opakuj."
       }
     },
     {
@@ -5797,7 +5797,7 @@
       "title": {
         "en": "Run up a hill as fast as you can",
         "cs": "Vyběhni kopec tak rychle, jak můžeš",
-        "sk": "Vybehnaj kopec čo najrýchlejšie"
+        "sk": "Vybehni kopec čo najrýchlejšie"
       },
       "description": {
         "en": "Repeat 5 times.",
@@ -6147,7 +6147,7 @@
       "description": {
         "en": "Guided counts. Bring a headlamp.",
         "cs": "S průvodcem se počítá. Vezmi si čelovku.",
-        "sk": "S prieskumníkom sa počíta. Vezmi si čelovku."
+        "sk": "So sprievodcom sa počíta. Vezmi si čelovku."
       }
     },
     {
@@ -6221,8 +6221,8 @@
       },
       "description": {
         "en": "Not a hotel you've stayed in before. Somewhere new.",
-        "cs": "Ne hotel, ve kterém jsi už bydlel. Někde nové.",
-        "sk": "Nie hotel, v ktorom si už bol. Niekde nové."
+        "cs": "Ne hotel, ve kterém jsi už bydlel. Něco nové.",
+        "sk": "Nie hotel, v ktorom si už bol. Niečo nové."
       }
     },
     {
@@ -6247,7 +6247,7 @@
       "title": {
         "en": "Drive until you need fuel and stop there for an hour",
         "cs": "Jeď, dokud nebudeš potřebovat natankovat, a tam zastav na hodinu",
-        "sk": "Jazdí, kým nebudeš potrebovať tankovať, a zastav tam na hodinu"
+        "sk": "Jazdi, kým nebudeš potrebovať tankovať, a zastav tam na hodinu"
       },
       "description": {
         "en": "Explore whatever is there.",
@@ -6327,7 +6327,7 @@
       "description": {
         "en": "Bid on one thing. Accept the result.",
         "cs": "Přihoď na jednu věc. Přijmi výsledek.",
-        "sk": "Ponúkni na jednu vec. Prijmi výsledok."
+        "sk": "Prihoď na jednu vec. Prijmi výsledok."
       }
     },
     {
@@ -6397,7 +6397,7 @@
       "title": {
         "en": "Wire a plug or replace a socket",
         "cs": "Zapoj zástrčku nebo vyměň zásuvku",
-        "sk": "Zapojiť zástrčku alebo vymeniť zásuvku"
+        "sk": "Zapoj zástrčku alebo vymeň zásuvku"
       },
       "description": {
         "en": "Safely. With the power off.",
@@ -6502,7 +6502,7 @@
       "title": {
         "en": "Replace a broken window pane",
         "cs": "Vyměň rozbitou okenní tabuli",
-        "sk": "Vymeň rozbitú okenný tabuľku"
+        "sk": "Vymeň rozbitú okennú tabuľu"
       },
       "description": {
         "en": "Cut to size if needed. Sealed properly.",
@@ -6537,7 +6537,7 @@
       "description": {
         "en": "Cut, join, fix to wall. No wobble.",
         "cs": "Nařež, spoj, přidělej na zeď. Žádné viklání.",
-        "sk": "Nareže, spoj, pripevni na stenu. Žiadne viklanie."
+        "sk": "Narež, spoj, pripevni na stenu. Žiadne viklanie."
       }
     },
     {
@@ -6582,7 +6582,7 @@
       "description": {
         "en": "Strip, sand, finish. Before and after photos.",
         "cs": "Odstraň, obrouš, nalakuj. Fotky před a po.",
-        "sk": "Odrob, obrúsil, nafinišuj. Fotky pred a po."
+        "sk": "Odstráň, obrús, nalakuj. Fotky pred a po."
       }
     },
     {
@@ -6597,7 +6597,7 @@
       "description": {
         "en": "Drill, cut, bolt. Holds weight.",
         "cs": "Vrtej, řež, šroubuj. Unese váhu.",
-        "sk": "Vŕtaj, režte, skrutkuj. Unesie váhu."
+        "sk": "Vŕtaj, rež, skrutkuj. Unesie váhu."
       }
     },
     {
@@ -6672,7 +6672,7 @@
       "description": {
         "en": "No internet. No social. Phone in a drawer.",
         "cs": "Žádný internet. Žádné sociální sítě. Telefon do šuplíku.",
-        "sk": "Žiadny internet. Žiadne sociálne siete. Telefón do zásuvky."
+        "sk": "Žiadny internet. Žiadne sociálne siete. Telefón do šuflíka."
       }
     },
     {
@@ -6867,7 +6867,7 @@
       "description": {
         "en": "If you already shave everything, let one part grow instead. Commit to the result for at least a month.",
         "cs": "Pokud holeš už všechno, nechej naopak jednu část dorůst. Drž se výsledku alespoň měsíc.",
-        "sk": "Ak už holiš všetko, nechaj naopak jednu časť narásť. Drž sa výsledku aspoň mesiac."
+        "sk": "Ak už holíš všetko, nechaj naopak jednu časť narásť. Drž sa výsledku aspoň mesiac."
       }
     },
     {
@@ -6877,12 +6877,12 @@
       "title": {
         "en": "Run a Spartan Sprint with no preparation",
         "cs": "Zaběhni Spartan Sprint bez přípravy",
-        "sk": "Zabehnaj Spartan Sprint bez prípravy"
+        "sk": "Zabehni Spartan Sprint bez prípravy"
       },
       "description": {
         "en": "5km, around 20 obstacles. No training plan. Show up. Finish.",
         "cs": "5 km, zhruba 20 překážek. Žádný tréninkový plán. Přijď. Dojdi do cíle.",
-        "sk": "5 km, zhruba 20 prekážok. Žiadny tréningový plán. Príď. Dobehnaj do cieľa."
+        "sk": "5 km, zhruba 20 prekážok. Žiadny tréningový plán. Príď. Dobehni do cieľa."
       }
     },
     {
@@ -7027,7 +7027,7 @@
       "title": {
         "en": "Do a workout that makes you feel sick",
         "cs": "Dej si trénink, ze kterého ti bude špatně",
-        "sk": "Uran si tréning, z ktorého ti je zle"
+        "sk": "Urob si tréning, z ktorého ti je zle"
       },
       "description": {
         "en": "Finish it anyway. Wisely.",
@@ -7146,8 +7146,8 @@
       "difficulty": "probablyShouldnt",
       "title": {
         "en": "Build something that moves using hydraulics or pneumatics",
-        "cs": "Postav něco, co se pohybuje pomocí hydrauliky nebo pneumatiky",
-        "sk": "Postav niečo, čo sa hýbe pomocou hydrauliky alebo pneumatiky"
+        "cs": "Postav něco, co se pohybuje pomocí hydrauliky nebo pneumatického pohonu",
+        "sk": "Postav niečo, čo sa hýbe pomocou hydrauliky alebo pneumatického pohonu"
       },
       "description": {
         "en": "Even a toy version. Functional counts.",
@@ -7432,7 +7432,7 @@
       "title": {
         "en": "Run a Spartan Super with no preparation",
         "cs": "Zaběhni Spartan Super bez přípravy",
-        "sk": "Zabehnaj Spartan Super bez prípravy"
+        "sk": "Zabehni Spartan Super bez prípravy"
       },
       "description": {
         "en": "10km, around 25 obstacles. No training. Just show up and suffer. You'll probably finish.",
