@@ -1,3 +1,9 @@
 .DS_Store
 *.swp
 *~
+
+# ruflo / claude-flow
+.claude/
+.claude-flow/
+CLAUDE.md
+.mcp.json

@@ -7439,6 +7439,756 @@
         "cs": "10 km, zhruba 25 překážek. Žádný trénink. Jen přijď a trp. Pravděpodobně dojdeš do cíle.",
         "sk": "10 km, zhruba 25 prekážok. Žiadny tréning. Len príď a trp. Pravdepodobne dobehnáš do cieľa."
       }
+    },
+    {
+      "id": "s083",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Play a board game with someone from a different generation",
+        "cs": "Zahraj si deskovou hru s někým z jiné generace",
+        "sk": "Zahraj si spoločenskú hru s niekým z inej generácie"
+      },
+      "description": {
+        "en": "Their pick or yours. No phones on the table.",
+        "cs": "Jejich výběr, nebo tvůj. Žádné telefony na stole.",
+        "sk": "Ich výber alebo tvoj. Žiadne telefóny na stole."
+      }
+    },
+    {
+      "id": "s084",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Text three people a specific memory you share with them",
+        "cs": "Napiš třem lidem konkrétní vzpomínku, kterou s nimi sdílíš",
+        "sk": "Napíš trom ľuďom konkrétnu spomienku, ktorú s nimi zdieľaš"
+      },
+      "description": {
+        "en": "Not a generic 'thinking of you'. The actual moment, in detail.",
+        "cs": "Žádná obecná fráze. Ten konkrétní moment, do detailu.",
+        "sk": "Žiadna všeobecná fráza. Ten konkrétny moment, do detailu."
+      }
+    },
+    {
+      "id": "c064",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Make your own butter",
+        "cs": "Vyrob si vlastní máslo",
+        "sk": "Vyrob si vlastné maslo"
+      },
+      "description": {
+        "en": "Cream, a jar, and your arms. Shake until it splits.",
+        "cs": "Smetana, sklenice a tvoje ruce. Třes, dokud se neoddělí.",
+        "sk": "Smotana, pohár a tvoje ruky. Tras, kým sa neoddelí."
+      }
+    },
+    {
+      "id": "c065",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Recreate your favourite childhood meal",
+        "cs": "Znovu vytvoř své oblíbené jídlo z dětství",
+        "sk": "Znovu vytvor svoje obľúbené jedlo z detstva"
+      },
+      "description": {
+        "en": "From memory. Taste it. Call whoever used to make it.",
+        "cs": "Zpaměti. Ochutnej. Zavolej tomu, kdo ho dřív vařil.",
+        "sk": "Spamäti. Ochutnaj. Zavolaj tomu, kto ho kedysi varil."
+      }
+    },
+    {
+      "id": "p063",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Stand on one leg while brushing your teeth",
+        "cs": "Stůj na jedné noze při čištění zubů",
+        "sk": "Stoj na jednej nohe pri čistení zubov"
+      },
+      "description": {
+        "en": "Left leg in the morning, right leg at night. Don't touch down.",
+        "cs": "Ráno levá, večer pravá. Nedotkni se země.",
+        "sk": "Ráno ľavá, večer pravá. Nedotkni sa zeme."
+      }
+    },
+    {
+      "id": "p064",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Take a walk in the rain without an umbrella",
+        "cs": "Projdi se v dešti bez deštníku",
+        "sk": "Prejdi sa v daždi bez dáždnika"
+      },
+      "description": {
+        "en": "At least 20 minutes. Let it happen.",
+        "cs": "Aspoň 20 minut. Prostě zmokni.",
+        "sk": "Aspoň 20 minút. Jednoducho zmokni."
+      }
+    },
+    {
+      "id": "cr063",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Draw with your non-dominant hand for 15 minutes",
+        "cs": "Kresli 15 minut svou slabší rukou",
+        "sk": "Kresli 15 minút svojou slabšou rukou"
+      },
+      "description": {
+        "en": "A portrait, your room, anything. Embrace the chaos.",
+        "cs": "Portrét, svůj pokoj, cokoliv. Přijmi ten chaos.",
+        "sk": "Portrét, svoju izbu, čokoľvek. Prijmi ten chaos."
+      }
+    },
+    {
+      "id": "cr064",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Rewrite the lyrics of a song you know to be about your day",
+        "cs": "Přepiš text známé písničky tak, aby byl o tvém dni",
+        "sk": "Prepíš text známej pesničky tak, aby bol o tvojom dni"
+      },
+      "description": {
+        "en": "Same melody, new words. Sing at least one verse out loud.",
+        "cs": "Stejná melodie, nová slova. Aspoň jednu sloku zazpívej nahlas.",
+        "sk": "Rovnaká melódia, nové slová. Aspoň jednu slohu zaspievaj nahlas."
+      }
+    },
+    {
+      "id": "e067",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Visit the place with the strangest name within 50km",
+        "cs": "Navštiv místo s nejdivnějším názvem do 50 km",
+        "sk": "Navštív miesto s najčudnejším názvom do 50 km"
+      },
+      "description": {
+        "en": "Find it on a map. Go there. Learn how it got the name.",
+        "cs": "Najdi ho na mapě. Jeď tam. Zjisti, jak k tomu názvu přišlo.",
+        "sk": "Nájdi ho na mape. Choď tam. Zisti, ako k tomu názvu prišlo."
+      }
+    },
+    {
+      "id": "e068",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Take a different route to work or school every day for a week",
+        "cs": "Choď každý den v týdnu do práce nebo školy jinou cestou",
+        "sk": "Choď každý deň v týždni do práce alebo školy inou cestou"
+      },
+      "description": {
+        "en": "Five days, five ways. Notice what you've been missing.",
+        "cs": "Pět dní, pět cest. Všimni si, co ti dosud unikalo.",
+        "sk": "Päť dní, päť ciest. Všimni si, čo ti doteraz unikalo."
+      }
+    },
+    {
+      "id": "m041",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Learn to tie 5 knots you don't know",
+        "cs": "Nauč se 5 uzlů, které neznáš",
+        "sk": "Nauč sa 5 uzlov, ktoré nepoznáš"
+      },
+      "description": {
+        "en": "Bowline, clove hitch, and three more. Practise until your hands remember them.",
+        "cs": "Dračí smyčka, lodní smyčka a tři další. Cvič, dokud si je ruce nezapamatují.",
+        "sk": "Dračia slučka, lodná slučka a tri ďalšie. Cvič, kým si ich ruky nezapamätajú."
+      }
+    },
+    {
+      "id": "m042",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Patch a punctured bicycle inner tube",
+        "cs": "Zalep píchlou duši na kole",
+        "sk": "Zalep prepichnutú dušu na bicykli"
+      },
+      "description": {
+        "en": "Find the hole, rough it, patch it, ride it.",
+        "cs": "Najdi díru, zdrsni ji, zalep, jeď.",
+        "sk": "Nájdi dieru, zdrsni ju, zalep, choď."
+      }
+    },
+    {
+      "id": "r045",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Memorise a poem and recite it to someone",
+        "cs": "Nauč se báseň zpaměti a přednes ji někomu",
+        "sk": "Nauč sa báseň naspamäť a prednes ju niekomu"
+      },
+      "description": {
+        "en": "At least 8 lines. From memory, eye contact included.",
+        "cs": "Aspoň 8 veršů. Zpaměti, včetně očního kontaktu.",
+        "sk": "Aspoň 8 veršov. Naspamäť, vrátane očného kontaktu."
+      }
+    },
+    {
+      "id": "r046",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Learn to whistle with your fingers",
+        "cs": "Nauč se pískat na prsty",
+        "sk": "Nauč sa pískať na prsty"
+      },
+      "description": {
+        "en": "Loud enough to stop a taxi. YouTube allowed.",
+        "cs": "Dost nahlas, abys zastavil taxi. YouTube povolen.",
+        "sk": "Dosť nahlas, aby si zastavil taxík. YouTube povolený."
+      }
+    },
+    {
+      "id": "s085",
+      "category": "social",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Ask for a discount in a shop with fixed prices",
+        "cs": "Požádej o slevu v obchodě s pevnými cenami",
+        "sk": "Popros o zľavu v obchode s pevnými cenami"
+      },
+      "description": {
+        "en": "Politely. With a straight face. See what happens.",
+        "cs": "Slušně. S vážnou tváří. Uvidíš, co se stane.",
+        "sk": "Slušne. S vážnou tvárou. Uvidíš, čo sa stane."
+      }
+    },
+    {
+      "id": "s086",
+      "category": "social",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Call in to a radio show and get on air",
+        "cs": "Dovolej se do rádia a dostaň se do vysílání",
+        "sk": "Dovolaj sa do rádia a dostaň sa do vysielania"
+      },
+      "description": {
+        "en": "Say something. Congratulate someone. Request a song. Get broadcast.",
+        "cs": "Něco řekni. Pogratuluj někomu. Přej si písničku. Hlavně buď ve vysílání.",
+        "sk": "Niečo povedz. Zagratuluj niekomu. Vyžiadaj si pesničku. Hlavne buď vo vysielaní."
+      }
+    },
+    {
+      "id": "c066",
+      "category": "culinary",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Go one full week without added sugar",
+        "cs": "Vydrž celý týden bez přidaného cukru",
+        "sk": "Vydrž celý týždeň bez pridaného cukru"
+      },
+      "description": {
+        "en": "Read the labels. It's in everything. Hold the line.",
+        "cs": "Čti etikety. Je úplně ve všem. Vydrž.",
+        "sk": "Čítaj etikety. Je úplne vo všetkom. Vydrž."
+      }
+    },
+    {
+      "id": "c067",
+      "category": "culinary",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Bake something and leave it at work anonymously",
+        "cs": "Upeč něco a nech to v práci anonymně",
+        "sk": "Upeč niečo a nechaj to v práci anonymne"
+      },
+      "description": {
+        "en": "Leave a note that says enjoy. No name. Never confess.",
+        "cs": "Přilož lísteček s přáním dobré chuti. Žádné jméno. Nikdy se nepřiznej.",
+        "sk": "Prilož lístoček s prianím dobrej chuti. Žiadne meno. Nikdy sa nepriznaj."
+      }
+    },
+    {
+      "id": "p065",
+      "category": "physical",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Learn to do a proper cartwheel",
+        "cs": "Nauč se pořádnou hvězdu",
+        "sk": "Nauč sa poriadnu hviezdu"
+      },
+      "description": {
+        "en": "Grass or a mat. Practise until it's smooth. Film the final one.",
+        "cs": "Tráva nebo žíněnka. Cvič, dokud nebude plynulá. Tu poslední natoč.",
+        "sk": "Tráva alebo žinenka. Cvič, kým nebude plynulá. Tú poslednú natoč."
+      }
+    },
+    {
+      "id": "p066",
+      "category": "physical",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Cycle 50km in one day",
+        "cs": "Ujeď 50 km na kole za jeden den",
+        "sk": "Prejdi 50 km na bicykli za jeden deň"
+      },
+      "description": {
+        "en": "Any bike. Any route. Pack water and go.",
+        "cs": "Jakékoliv kolo. Jakákoliv trasa. Vezmi si vodu a jeď.",
+        "sk": "Akýkoľvek bicykel. Akákoľvek trasa. Zober si vodu a choď."
+      }
+    },
+    {
+      "id": "cr065",
+      "category": "creative",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Sketch strangers in a public place for an hour",
+        "cs": "Hodinu skicuj cizí lidi na veřejném místě",
+        "sk": "Hodinu skicuj cudzích ľudí na verejnom mieste"
+      },
+      "description": {
+        "en": "A café, a park, a station. Quick studies. Don't get caught staring.",
+        "cs": "Kavárna, park, nádraží. Rychlé skici. Nenech se chytit, jak zíráš.",
+        "sk": "Kaviareň, park, stanica. Rýchle skice. Nenechaj sa pristihnúť, ako civíš."
+      }
+    },
+    {
+      "id": "cr066",
+      "category": "creative",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Write a poem for a friend and send it with no explanation",
+        "cs": "Napiš báseň pro kamaráda a pošli mu ji bez vysvětlení",
+        "sk": "Napíš báseň pre kamaráta a pošli mu ju bez vysvetlenia"
+      },
+      "description": {
+        "en": "No context. No follow-up message. Let it land.",
+        "cs": "Žádný kontext. Žádná další zpráva. Nech to vyznít.",
+        "sk": "Žiadny kontext. Žiadna ďalšia správa. Nechaj to vyznieť."
+      }
+    },
+    {
+      "id": "e069",
+      "category": "exploration",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Take the first bus or train of the day",
+        "cs": "Jeď prvním ranním autobusem nebo vlakem",
+        "sk": "Choď prvým ranným autobusom alebo vlakom"
+      },
+      "description": {
+        "en": "Alarm before dawn. See who else is awake and where they're going.",
+        "cs": "Budík před svítáním. Podívej se, kdo je taky vzhůru a kam má namířeno.",
+        "sk": "Budík pred svitaním. Pozri sa, kto je tiež hore a kam má namierené."
+      }
+    },
+    {
+      "id": "e070",
+      "category": "exploration",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Visit three villages you've never heard of in one day",
+        "cs": "Navštiv za jeden den tři vesnice, o kterých jsi nikdy neslyšel",
+        "sk": "Navštív za jeden deň tri dediny, o ktorých si nikdy nepočul"
+      },
+      "description": {
+        "en": "Pick them blind off a map. Find one thing worth remembering in each.",
+        "cs": "Vyber je naslepo z mapy. V každé najdi jednu věc, která stojí za zapamatování.",
+        "sk": "Vyber ich naslepo z mapy. V každej nájdi jednu vec, ktorá stojí za zapamätanie."
+      }
+    },
+    {
+      "id": "m043",
+      "category": "mechanical",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Replace a phone battery or screen yourself",
+        "cs": "Vyměň si sám baterii nebo displej v telefonu",
+        "sk": "Vymeň si sám batériu alebo displej v telefóne"
+      },
+      "description": {
+        "en": "Order the part. Watch a teardown video. Keep track of every screw.",
+        "cs": "Objednej díl. Pusť si video s rozebráním. Neztrať ani šroubek.",
+        "sk": "Objednaj diel. Pozri si video s rozobratím. Nestrať ani skrutku."
+      }
+    },
+    {
+      "id": "m044",
+      "category": "mechanical",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Build a working lamp",
+        "cs": "Postav funkční lampu",
+        "sk": "Postav funkčnú lampu"
+      },
+      "description": {
+        "en": "Any design. Wire it, test it, use it daily.",
+        "cs": "Jakýkoliv design. Zapoj ji, otestuj a používej každý den.",
+        "sk": "Akýkoľvek dizajn. Zapoj ju, otestuj a používaj každý deň."
+      }
+    },
+    {
+      "id": "r047",
+      "category": "random",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Live without an alarm clock for three days",
+        "cs": "Žij tři dny bez budíku",
+        "sk": "Ži tri dni bez budíka"
+      },
+      "description": {
+        "en": "Sleep when tired, wake when rested. Choose your days wisely.",
+        "cs": "Spi, když jsi unavený, vstávej, až se vyspíš. Vyber si dny moudře.",
+        "sk": "Spi, keď si unavený, vstávaj, keď sa vyspíš. Vyber si dni múdro."
+      }
+    },
+    {
+      "id": "r048",
+      "category": "random",
+      "difficulty": "mildlyInconvenient",
+      "title": {
+        "en": "Track every expense for one week",
+        "cs": "Týden si zapisuj každý výdaj",
+        "sk": "Týždeň si zapisuj každý výdavok"
+      },
+      "description": {
+        "en": "Every coffee, every ticket. Read the list at the end. No lying.",
+        "cs": "Každou kávu, každou jízdenku. Na konci si seznam přečti. Nelži.",
+        "sk": "Každú kávu, každý lístok. Na konci si zoznam prečítaj. Neklam."
+      }
+    },
+    {
+      "id": "s087",
+      "category": "social",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Ask your boss for a raise — today",
+        "cs": "Požádej šéfa o zvýšení platu — dnes",
+        "sk": "Popros šéfa o zvýšenie platu — dnes"
+      },
+      "description": {
+        "en": "Prepare three reasons. Say them out loud. Don't apologise for asking.",
+        "cs": "Připrav si tři důvody. Řekni je nahlas. Neomlouvej se, že se ptáš.",
+        "sk": "Priprav si tri dôvody. Povedz ich nahlas. Neospravedlňuj sa, že sa pýtaš."
+      }
+    },
+    {
+      "id": "s088",
+      "category": "social",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Read your teenage diary or old messages aloud to a friend",
+        "cs": "Přečti kamarádovi nahlas svůj deník z puberty nebo staré zprávy",
+        "sk": "Prečítaj kamarátovi nahlas svoj denník z puberty alebo staré správy"
+      },
+      "description": {
+        "en": "Pick a page at random. No skipping the cringe.",
+        "cs": "Vyber stránku náhodně. Žádné přeskakování trapasů.",
+        "sk": "Vyber stranu náhodne. Žiadne preskakovanie trapasov."
+      }
+    },
+    {
+      "id": "c068",
+      "category": "culinary",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Attempt a beef Wellington",
+        "cs": "Pokus se o hovězí Wellington",
+        "sk": "Pokús sa o hovädzí Wellington"
+      },
+      "description": {
+        "en": "Duxelles, pastry, the perfect pink centre. One shot at dinner time.",
+        "cs": "Duxelles, těsto, dokonale růžový střed. Jeden pokus v čase večeře.",
+        "sk": "Duxelles, cesto, dokonale ružový stred. Jeden pokus v čase večere."
+      }
+    },
+    {
+      "id": "p067",
+      "category": "physical",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Complete a triathlon distance in one day — on your own",
+        "cs": "Zvládni triatlonovou vzdálenost za jeden den — na vlastní pěst",
+        "sk": "Zvládni triatlonovú vzdialenosť za jeden deň — na vlastnú päsť"
+      },
+      "description": {
+        "en": "Swim 750m, bike 20km, run 5km. No event, no crowd, just you.",
+        "cs": "Uplav 750 m, ujeď 20 km na kole, uběhni 5 km. Žádný závod, žádný dav, jen ty.",
+        "sk": "Zaplávaj 750 m, prejdi 20 km na bicykli, zabehni 5 km. Žiadne preteky, žiadny dav, len ty."
+      }
+    },
+    {
+      "id": "p068",
+      "category": "physical",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Complete a 24-hour fast",
+        "cs": "Zvládni 24hodinový půst",
+        "sk": "Zvládni 24-hodinový pôst"
+      },
+      "description": {
+        "en": "Water, tea, black coffee. Nothing else. Note what your head does.",
+        "cs": "Voda, čaj, černá káva. Nic jiného. Sleduj, co dělá tvoje hlava.",
+        "sk": "Voda, čaj, čierna káva. Nič iné. Sleduj, čo robí tvoja hlava."
+      }
+    },
+    {
+      "id": "cr067",
+      "category": "creative",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Do a stand-up set at an open mic",
+        "cs": "Vystup se stand-upem na open micu",
+        "sk": "Vystúp so stand-upom na open micu"
+      },
+      "description": {
+        "en": "Five minutes. Written by you. Bombing counts as completing.",
+        "cs": "Pět minut. Vlastní materiál. I propadák se počítá jako splněno.",
+        "sk": "Päť minút. Vlastný materiál. Aj prepadák sa počíta ako splnené."
+      }
+    },
+    {
+      "id": "cr068",
+      "category": "creative",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Publish something you made under your real name",
+        "cs": "Zveřejni něco, co jsi vytvořil, pod svým pravým jménem",
+        "sk": "Zverejni niečo, čo si vytvoril, pod svojím pravým menom"
+      },
+      "description": {
+        "en": "A story, a song, an app. Public, findable, yours. Read the comments.",
+        "cs": "Povídku, písničku, aplikaci. Veřejně, dohledatelně, pod svým jménem. A přečti si komentáře.",
+        "sk": "Poviedku, pesničku, aplikáciu. Verejne, dohľadateľne, pod svojím menom. A prečítaj si komentáre."
+      }
+    },
+    {
+      "id": "e071",
+      "category": "exploration",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Knock on the door of a home you used to live in",
+        "cs": "Zaklepej na dveře domu, kde jsi dřív bydlel",
+        "sk": "Zaklop na dvere domu, kde si kedysi býval"
+      },
+      "description": {
+        "en": "Introduce yourself. Ask to see your old room. Accept whatever answer you get.",
+        "cs": "Představ se. Popros, jestli můžeš vidět svůj starý pokoj. Přijmi jakoukoliv odpověď.",
+        "sk": "Predstav sa. Popros, či môžeš vidieť svoju starú izbu. Prijmi akúkoľvek odpoveď."
+      }
+    },
+    {
+      "id": "m045",
+      "category": "mechanical",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Take apart something expensive and reassemble it — working",
+        "cs": "Rozeber něco drahého a slož to zpátky — funkční",
+        "sk": "Rozober niečo drahé a zlož to späť — funkčné"
+      },
+      "description": {
+        "en": "Laptop, camera, espresso machine. Photograph every step. No spare screws at the end.",
+        "cs": "Notebook, foťák, kávovar. Vyfoť každý krok. Na konci žádné šroubky navíc.",
+        "sk": "Notebook, foťák, kávovar. Odfoť každý krok. Na konci žiadne skrutky navyše."
+      }
+    },
+    {
+      "id": "m046",
+      "category": "mechanical",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Rebuild a bicycle from the frame up",
+        "cs": "Postav kolo znovu od rámu",
+        "sk": "Postav bicykel znova od rámu"
+      },
+      "description": {
+        "en": "Strip it to nothing. Rebuild every system. Ride it 10km to prove it.",
+        "cs": "Rozeber ho na kost. Znovu slož každý systém. Dokaž to jízdou na 10 km.",
+        "sk": "Rozober ho na kosť. Znova zlož každý systém. Dokáž to jazdou na 10 km."
+      }
+    },
+    {
+      "id": "r049",
+      "category": "random",
+      "difficulty": "probablyShouldnt",
+      "title": {
+        "en": "Delete your most-used app for one week",
+        "cs": "Smaž na týden svou nejpoužívanější aplikaci",
+        "sk": "Zmaž na týždeň svoju najpoužívanejšiu aplikáciu"
+      },
+      "description": {
+        "en": "Check your screen time. Delete the winner. Survive the phantom scrolling.",
+        "cs": "Zkontroluj čas u obrazovky. Smaž vítěze. Přežij fantomové skrolování.",
+        "sk": "Skontroluj čas pri obrazovke. Zmaž víťaza. Preži fantómové skrolovanie."
+      }
+    },
+    {
+      "id": "bsc079",
+      "category": "exploration",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Visit three countries in one day",
+        "cs": "Navštiv tři země za jeden den",
+        "sk": "Navštív tri krajiny za jeden deň"
+      },
+      "description": {
+        "en": "Plan the route. Cross two borders. Eat something in each country.",
+        "cs": "Naplánuj trasu. Překroč dvě hranice. V každé zemi něco sněz.",
+        "sk": "Naplánuj trasu. Prekroč dve hranice. V každej krajine niečo zjedz."
+      }
+    },
+    {
+      "id": "bsc080",
+      "category": "exploration",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Climb the highest mountain in your country",
+        "cs": "Vylez na nejvyšší horu své země",
+        "sk": "Vylez na najvyšší vrch svojej krajiny"
+      },
+      "description": {
+        "en": "Research the route. Hire a guide if the mountain requires one. Touch the top.",
+        "cs": "Nastuduj trasu. Vezmi si průvodce, pokud ho hora vyžaduje. Dotkni se vrcholu.",
+        "sk": "Naštuduj trasu. Zober si sprievodcu, ak ho hora vyžaduje. Dotkni sa vrcholu."
+      }
+    },
+    {
+      "id": "bsc081",
+      "category": "social",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Organise a flash mob with at least 10 strangers",
+        "cs": "Zorganizuj flash mob s aspoň 10 cizími lidmi",
+        "sk": "Zorganizuj flash mob s aspoň 10 cudzími ľuďmi"
+      },
+      "description": {
+        "en": "Recruit them yourself. Pick a public place. Make it happen, then vanish.",
+        "cs": "Naverbuj je sám. Vyber veřejné místo. Proveď to a pak zmiz.",
+        "sk": "Naverbuj ich sám. Vyber verejné miesto. Zrealizuj to a potom zmizni."
+      }
+    },
+    {
+      "id": "bsc082",
+      "category": "social",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Get 100 high-fives from strangers in one day",
+        "cs": "Plácni si se 100 cizími lidmi za jeden den",
+        "sk": "Daj high five 100 cudzincom za jeden deň"
+      },
+      "description": {
+        "en": "Count them honestly. No explanations allowed — just the raised hand.",
+        "cs": "Počítej poctivě. Žádné vysvětlování — jen zvednutá ruka.",
+        "sk": "Počítaj poctivo. Žiadne vysvetľovanie — len zdvihnutá ruka."
+      }
+    },
+    {
+      "id": "bsc083",
+      "category": "mechanical",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Build a working hovercraft",
+        "cs": "Postav funkční vznášedlo",
+        "sk": "Postav funkčné vznášadlo"
+      },
+      "description": {
+        "en": "Leaf blower, plywood, tarp — whatever it takes. It must carry you across a car park.",
+        "cs": "Fukar na listí, překližka, plachta — cokoliv bude třeba. Musí tě unést přes parkoviště.",
+        "sk": "Fukár na lístie, preglejka, plachta — čokoľvek bude treba. Musí ťa uniesť cez parkovisko."
+      }
+    },
+    {
+      "id": "bsc084",
+      "category": "mechanical",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Forge a knife from raw steel",
+        "cs": "Vykovej nůž ze surové oceli",
+        "sk": "Vykuj nôž zo surovej ocele"
+      },
+      "description": {
+        "en": "Heat, hammer, grind, sharpen. It must slice paper when you're done.",
+        "cs": "Rozžhav, kovej, brus, naostři. Až skončíš, musí krájet papír.",
+        "sk": "Rozžerav, kuj, brús, naostri. Keď skončíš, musí krájať papier."
+      }
+    },
+    {
+      "id": "bsc085",
+      "category": "physical",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Cycle 200km in one day",
+        "cs": "Ujeď 200 km na kole za jeden den",
+        "sk": "Prejdi 200 km na bicykli za jeden deň"
+      },
+      "description": {
+        "en": "Start at dawn. Eat in the saddle. Finish in the dark if you have to.",
+        "cs": "Vyraz za svítání. Jez za jízdy. Klidně dojeď za tmy.",
+        "sk": "Vyraz za svitania. Jedz počas jazdy. Pokojne dôjdi za tmy."
+      }
+    },
+    {
+      "id": "bsc086",
+      "category": "random",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Let strangers make every decision for one full day",
+        "cs": "Nech cizí lidi rozhodovat celý den o všem",
+        "sk": "Nechaj cudzích ľudí rozhodovať celý deň o všetkom"
+      },
+      "description": {
+        "en": "What you eat, where you go, what you wear. Ask, obey, repeat.",
+        "cs": "Co jíš, kam jdeš, co si oblečeš. Zeptej se, poslechni, opakuj.",
+        "sk": "Čo ješ, kam ideš, čo si oblečieš. Opýtaj sa, poslúchni, opakuj."
+      }
+    },
+    {
+      "id": "bsc087",
+      "category": "random",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Spend a week in a city chosen by a dart throw",
+        "cs": "Stráv týden ve městě, které vybere šipka",
+        "sk": "Stráv týždeň v meste, ktoré vyberie šípka"
+      },
+      "description": {
+        "en": "Tape a map to the wall. Throw. Live where it lands for seven days.",
+        "cs": "Přilep mapu na zeď. Hoď. Žij sedm dní tam, kam dopadne.",
+        "sk": "Prilep mapu na stenu. Hoď. Ži sedem dní tam, kam dopadne."
+      }
+    },
+    {
+      "id": "bsc088",
+      "category": "culinary",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Eat only what you catch, forage, or grow for 48 hours",
+        "cs": "48 hodin jez jen to, co sám ulovíš, nasbíráš nebo vypěstuješ",
+        "sk": "48 hodín jedz len to, čo sám ulovíš, nazbieraš alebo vypestuješ"
+      },
+      "description": {
+        "en": "Fish it, pick it, dig it up. Shops are closed to you. Hunger is part of the challenge.",
+        "cs": "Chyť, natrhej, vykopej. Obchody pro tebe neexistují. Hlad je součást výzvy.",
+        "sk": "Chyť, natrhaj, vykop. Obchody pre teba neexistujú. Hlad je súčasť výzvy."
+      }
+    },
+    {
+      "id": "bsc089",
+      "category": "creative",
+      "difficulty": "batShitCrazy",
+      "title": {
+        "en": "Street-perform a talent you don't have until you earn €10",
+        "cs": "Vystupuj na ulici s talentem, který nemáš, dokud nevyděláš 10 €",
+        "sk": "Vystupuj na ulici s talentom, ktorý nemáš, kým nezarobíš 10 €"
+      },
+      "description": {
+        "en": "Pick something you're bad at. Perform in public. Stay until strangers have paid you €10.",
+        "cs": "Vyber si něco, co ti nejde. Vystupuj na veřejnosti. Zůstaň, dokud ti kolemjdoucí nedají 10 €.",
+        "sk": "Vyber si niečo, čo ti nejde. Vystupuj na verejnosti. Zostaň, kým ti okoloidúci nedajú 10 €."
+      }
     }
   ]
 }
