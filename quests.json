@@ -11466,5 +11466,156 @@
         "pt": "Escolhe algo em que sejas mau. Atua em público. Fica até estranhos te terem pagado 10 €."
       }
     }
+  ],
+  "questlines": [
+    {
+      "id": "haunting2026",
+      "emoji": "🎃",
+      "startsAt": "2026-10-15T00:00:00Z",
+      "endsAt": "2026-11-02T23:59:59Z",
+      "premium": false,
+      "title": {
+        "en": "The Haunting",
+        "cs": "Halloweenské strašení",
+        "sk": "Halloweenské strašenie",
+        "de": "Der Spuk",
+        "es": "El Embrujo",
+        "pt": "A Assombração"
+      },
+      "subtitle": {
+        "en": "A 5-part Halloween questline. Limited time only.",
+        "cs": "Halloweenská série 5 questů. Jen po omezenou dobu.",
+        "sk": "Halloweenská séria 5 questov. Len na obmedzený čas.",
+        "de": "Eine Halloween-Questreihe in 5 Teilen. Nur für kurze Zeit.",
+        "es": "Una serie de 5 misiones de Halloween. Solo por tiempo limitado.",
+        "pt": "Uma série de 5 missões de Halloween. Só por tempo limitado."
+      },
+      "badge": {
+        "emoji": "👻",
+        "name": {
+          "en": "Ghost Hunter 2026",
+          "cs": "Lovec duchů 2026",
+          "sk": "Lovec duchov 2026",
+          "de": "Geisterjäger 2026",
+          "es": "Cazador de fantasmas 2026",
+          "pt": "Caçador de Fantasmas 2026"
+        },
+        "description": {
+          "en": "Finished all 5 parts of The Haunting (Halloween 2026).",
+          "cs": "Všech 5 částí Halloweenského strašení 2026 splněno.",
+          "sk": "Všetkých 5 častí Halloweenského strašenia 2026 splnených.",
+          "de": "Alle 5 Teile von „Der Spuk“ (Halloween 2026) geschafft.",
+          "es": "Completaste las 5 partes de El Embrujo (Halloween 2026).",
+          "pt": "Completaste as 5 partes de A Assombração (Halloween 2026)."
+        }
+      },
+      "steps": [
+        {
+          "id": "ql.haunting2026.1",
+          "category": "creative",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "Carve the Unexpected",
+            "cs": "Vyřež nečekané",
+            "sk": "Vyrež nečakané",
+            "de": "Schnitz das Unerwartete",
+            "es": "Talla lo inesperado",
+            "pt": "Esculpe o inesperado"
+          },
+          "description": {
+            "en": "Carve or decorate a pumpkin — but no faces allowed. Make it something nobody would ever expect on a doorstep.",
+            "cs": "Vyřež nebo ozdob dýni — ale žádný obličej. Udělej z ní něco, co by na prahu nikdo nečekal.",
+            "sk": "Vyrež alebo ozdob tekvicu — ale žiadna tvár. Sprav z nej niečo, čo by pred dverami nikto nečakal.",
+            "de": "Schnitz oder verziere einen Kürbis – aber keine Gesichter. Mach etwas daraus, das niemand vor einer Haustür erwarten würde.",
+            "es": "Talla o decora una calabaza, pero sin caras. Conviértela en algo que nadie esperaría ver en una puerta.",
+            "pt": "Esculpe ou decora uma abóbora — mas nada de caras. Transforma-a em algo que ninguém esperaria ver à porta de casa."
+          }
+        },
+        {
+          "id": "ql.haunting2026.2",
+          "category": "exploration",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "Dig Up a Local Legend",
+            "cs": "Vykopej místní legendu",
+            "sk": "Vykopni miestnu legendu",
+            "de": "Grab eine lokale Legende aus",
+            "es": "Desentierra una leyenda local",
+            "pt": "Desenterra uma lenda local"
+          },
+          "description": {
+            "en": "Find the oldest or creepiest building around you and uncover its story — a local legend, an old article, or someone who's lived nearby forever.",
+            "cs": "Najdi nejstarší nebo nejstrašidelnější budovu v okolí a zjisti její příběh — místní pověst, starý článek nebo někoho, kdo tam žije odjakživa.",
+            "sk": "Nájdi najstaršiu alebo najstrašidelnejšiu budovu v okolí a zisti jej príbeh — miestnu povesť, starý článok alebo niekoho, kto tam žije odjakživa.",
+            "de": "Finde das älteste oder gruseligste Gebäude in deiner Nähe und deck seine Geschichte auf – eine Sage, ein alter Artikel oder jemand, der schon ewig dort wohnt.",
+            "es": "Encuentra el edificio más antiguo o más tétrico de tu zona y descubre su historia: una leyenda, un artículo viejo o alguien que vive ahí desde siempre.",
+            "pt": "Encontra o edifício mais antigo ou mais assustador da tua zona e descobre a sua história — uma lenda, um artigo antigo ou alguém que mora lá desde sempre."
+          }
+        },
+        {
+          "id": "ql.haunting2026.3",
+          "category": "culinary",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "Cook a Spooky Tradition",
+            "cs": "Uvař strašidelnou tradici",
+            "sk": "Uvar strašidelnú tradíciu",
+            "de": "Koch eine gruselige Tradition",
+            "es": "Cocina una tradición tenebrosa",
+            "pt": "Cozinha uma tradição arrepiante"
+          },
+          "description": {
+            "en": "Make a traditional Halloween or Day of the Dead treat from a culture that isn't yours — pan de muerto, soul cakes, barmbrack, colcannon. Share it with someone.",
+            "cs": "Připrav tradiční pochoutku na Halloween nebo Den mrtvých z cizí kultury — pan de muerto, soul cakes, barmbrack, colcannon. Poděl se o ni s někým.",
+            "sk": "Priprav tradičnú dobrotu na Halloween alebo Deň mŕtvych z cudzej kultúry — pan de muerto, soul cakes, barmbrack, colcannon. Podeľ sa o ňu s niekým.",
+            "de": "Bereite eine traditionelle Leckerei zu Halloween oder zum Día de Muertos aus einer fremden Kultur zu – Pan de Muerto, Soul Cakes, Barmbrack, Colcannon. Teile sie mit jemandem.",
+            "es": "Prepara un plato típico de Halloween o del Día de Muertos de una cultura que no sea la tuya: soul cakes, barmbrack, colcannon… Compártelo con alguien.",
+            "pt": "Prepara um doce tradicional do Halloween ou do Dia dos Mortos de outra cultura — pan de muerto, soul cakes, barmbrack, colcannon. Partilha-o com alguém."
+          }
+        },
+        {
+          "id": "ql.haunting2026.4",
+          "category": "social",
+          "difficulty": "probablyShouldnt",
+          "title": {
+            "en": "Lights-Out Storytime",
+            "cs": "Příběh při zhasnutých světlech",
+            "sk": "Príbeh pri zhasnutých svetlách",
+            "de": "Licht aus, Geschichte an",
+            "es": "Cuento a oscuras",
+            "pt": "Histórias às escuras"
+          },
+          "description": {
+            "en": "Tell a ghost story to at least three people with the lights off. Commit to the voice. Bonus if somebody screams.",
+            "cs": "Vyprávěj strašidelný příběh aspoň třem lidem při zhasnutých světlech. Hraj to naplno. Bonus, když někdo vykřikne.",
+            "sk": "Vyrozprávaj strašidelný príbeh aspoň trom ľuďom pri zhasnutých svetlách. Hraj to naplno. Bonus, ak niekto vykríkne.",
+            "de": "Erzähl mindestens drei Leuten bei ausgeschaltetem Licht eine Geistergeschichte. Voller Einsatz bei der Stimme. Bonus, wenn jemand schreit.",
+            "es": "Cuenta una historia de fantasmas a por lo menos tres personas con las luces apagadas. Métete en el papel. Punto extra si alguien grita.",
+            "pt": "Conta uma história de fantasmas a pelo menos três pessoas com as luzes apagadas. Entra na personagem. Bónus se alguém gritar."
+          }
+        },
+        {
+          "id": "ql.haunting2026.5",
+          "category": "exploration",
+          "difficulty": "probablyShouldnt",
+          "title": {
+            "en": "The Night Walk",
+            "cs": "Noční procházka",
+            "sk": "Nočná prechádzka",
+            "de": "Der Nachtspaziergang",
+            "es": "La caminata nocturna",
+            "pt": "O passeio noturno"
+          },
+          "description": {
+            "en": "Walk somewhere you've never been after dark — a forest trail, a park, an old town. Bring a friend and a flashlight. Stay safe and legal.",
+            "cs": "Projdi se po setmění někde, kde jsi v noci ještě nebyl(a) — lesní stezka, park, staré město. Vezmi s sebou kamaráda a baterku. Zůstaň v bezpečí a v mezích zákona.",
+            "sk": "Prejdi sa po zotmení niekde, kde si v noci ešte nebol(a) — lesný chodník, park, staré mesto. Zober kamaráta a baterku. Zostaň v bezpečí a v medziach zákona.",
+            "de": "Geh nach Einbruch der Dunkelheit irgendwohin, wo du nachts noch nie warst – ein Waldweg, ein Park, eine Altstadt. Nimm jemanden und eine Taschenlampe mit. Bleib sicher und legal.",
+            "es": "Camina de noche por un lugar donde nunca hayas estado a esas horas: un sendero, un parque, un casco antiguo. Lleva a alguien y una linterna. No te arriesgues y no rompas ninguna ley.",
+            "pt": "Passeia depois de escurecer por um sítio onde nunca estiveste à noite — um trilho, um parque, uma zona antiga. Leva um amigo e uma lanterna. Mantém-te em segurança e dentro da lei."
+          }
+        }
+      ]
+    }
   ]
 }
