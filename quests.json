@@ -11465,6 +11465,846 @@
         "es": "Elige algo que se te dé mal. Actúa en público. Quédate hasta que unos desconocidos te hayan pagado 10 €.",
         "pt": "Escolhe algo em que sejas mau. Atua em público. Fica até estranhos te terem pagado 10 €."
       }
+    },
+    {
+      "id": "s089",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Compliment a stranger",
+        "cs": "Slož kompliment cizímu člověku",
+        "sk": "Zlož kompliment cudziemu človeku",
+        "de": "Mach einer fremden Person ein Kompliment",
+        "es": "Hazle un cumplido a un desconocido",
+        "pt": "Elogia um desconhecido"
+      },
+      "description": {
+        "en": "A real one, about something they chose — their jacket, their dog, their laugh. Then walk on.",
+        "cs": "Opravdový, o něčem, co si sám vybral — bunda, pes, smích. Pak jdi dál.",
+        "sk": "Skutočný, o niečom, čo si sám vybral — bunda, pes, smiech. Potom choď ďalej.",
+        "de": "Ein echtes, über etwas, das sie selbst gewählt haben – Jacke, Hund, Lachen. Dann geh weiter.",
+        "es": "Uno de verdad, sobre algo que eligió: su chaqueta, su perro, su risa. Luego sigue tu camino.",
+        "pt": "Um a sério, sobre algo que a pessoa escolheu — o casaco, o cão, o riso. Depois segue em frente."
+      }
+    },
+    {
+      "id": "s090",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Voice note, not text",
+        "cs": "Hlasovka místo textu",
+        "sk": "Hlasovka namiesto textu",
+        "de": "Sprachnachricht statt Text",
+        "es": "Nota de voz, no texto",
+        "pt": "Áudio, não texto"
+      },
+      "description": {
+        "en": "Send a friend a voice message telling them one specific thing you like about them.",
+        "cs": "Pošli kamarádovi hlasovou zprávu a řekni mu jednu konkrétní věc, kterou na něm máš rád.",
+        "sk": "Pošli kamarátovi hlasovú správu a povedz mu jednu konkrétnu vec, ktorú na ňom máš rád.",
+        "de": "Schick einem Freund eine Sprachnachricht mit einer konkreten Sache, die du an ihm magst.",
+        "es": "Mándale a un amigo un mensaje de voz diciéndole algo concreto que te gusta de él.",
+        "pt": "Manda a um amigo uma mensagem de voz a dizer uma coisa concreta de que gostas nele."
+      }
+    },
+    {
+      "id": "s091",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Learn a name",
+        "cs": "Zjisti jméno",
+        "sk": "Zisti meno",
+        "de": "Lern einen Namen",
+        "es": "Aprende un nombre",
+        "pt": "Aprende um nome"
+      },
+      "description": {
+        "en": "Someone you see often but never talk to — a barista, a neighbour. Ask their name and use it.",
+        "cs": "Někdo, koho vídáš často, ale nemluvíte spolu — barista, soused. Zeptej se na jméno a používej ho.",
+        "sk": "Niekto, koho vídaš často, ale nehovoríte spolu — barista, sused. Opýtaj sa na meno a používaj ho.",
+        "de": "Jemand, den du oft siehst, aber nie sprichst – Barista, Nachbar. Frag nach dem Namen und benutze ihn.",
+        "es": "Alguien a quien ves seguido pero con quien nunca hablas: un barista, un vecino. Pregúntale su nombre y úsalo.",
+        "pt": "Alguém que vês muitas vezes mas com quem nunca falas — um barista, um vizinho. Pergunta o nome e usa-o."
+      }
+    },
+    {
+      "id": "s092",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Hold the door, properly",
+        "cs": "Podrž dveře pořádně",
+        "sk": "Podrž dvere poriadne",
+        "de": "Tür aufhalten, aber richtig",
+        "es": "Sostén la puerta, en serio",
+        "pt": "Segura a porta, a sério"
+      },
+      "description": {
+        "en": "Today, hold the door for five people. Count them. Smile at every one.",
+        "cs": "Dnes podrž dveře pěti lidem. Počítej je. Na každého se usměj.",
+        "sk": "Dnes podrž dvere piatim ľuďom. Počítaj ich. Na každého sa usmej.",
+        "de": "Halte heute fünf Menschen die Tür auf. Zähl mit. Lächle jeden an.",
+        "es": "Hoy sostén la puerta a cinco personas. Cuéntalas. Sonríele a cada una.",
+        "pt": "Hoje segura a porta a cinco pessoas. Conta-as. Sorri a cada uma."
+      }
+    },
+    {
+      "id": "s093",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Ask the old question",
+        "cs": "Polož starou otázku",
+        "sk": "Polož starú otázku",
+        "de": "Stell die alte Frage",
+        "es": "Haz la pregunta de siempre",
+        "pt": "Faz a pergunta antiga"
+      },
+      "description": {
+        "en": "Ask someone older than 60 what the best year of their life was, and why. Just listen.",
+        "cs": "Zeptej se někoho staršího 60 let, jaký byl nejlepší rok jeho života a proč. Jen poslouchej.",
+        "sk": "Opýtaj sa niekoho staršieho ako 60 rokov, aký bol najlepší rok jeho života a prečo. Len počúvaj.",
+        "de": "Frag jemanden über 60, welches das beste Jahr seines Lebens war und warum. Hör einfach zu.",
+        "es": "Pregúntale a alguien de más de 60 cuál fue el mejor año de su vida y por qué. Solo escucha.",
+        "pt": "Pergunta a alguém com mais de 60 anos qual foi o melhor ano da vida dele e porquê. Só ouve."
+      }
+    },
+    {
+      "id": "s094",
+      "category": "social",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Leave a kind review",
+        "cs": "Napiš milou recenzi",
+        "sk": "Napíš milú recenziu",
+        "de": "Schreib eine nette Bewertung",
+        "es": "Deja una reseña amable",
+        "pt": "Deixa uma avaliação simpática"
+      },
+      "description": {
+        "en": "A small local place you like — write them an honest, specific, glowing review.",
+        "cs": "Malý místní podnik, který máš rád — napiš mu upřímnou, konkrétní a nadšenou recenzi.",
+        "sk": "Malý miestny podnik, ktorý máš rád — napíš mu úprimnú, konkrétnu a nadšenú recenziu.",
+        "de": "Ein kleiner Laden in deiner Nähe, den du magst – schreib eine ehrliche, konkrete, begeisterte Bewertung.",
+        "es": "Un pequeño lugar local que te guste: escríbele una reseña honesta, concreta y entusiasta.",
+        "pt": "Um pequeno sítio local de que gostas — escreve-lhe uma avaliação honesta, concreta e entusiasta."
+      }
+    },
+    {
+      "id": "e072",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Take the other street",
+        "cs": "Jdi jinou ulicí",
+        "sk": "Choď inou ulicou",
+        "de": "Nimm die andere Straße",
+        "es": "Toma la otra calle",
+        "pt": "Vai pela outra rua"
+      },
+      "description": {
+        "en": "On a route you always take, turn into a street you've never walked down. Find one thing worth a photo.",
+        "cs": "Na trase, kterou chodíš pořád, zahni do ulice, kterou jsi nikdy nešel. Najdi jednu věc, co stojí za fotku.",
+        "sk": "Na trase, ktorou chodíš stále, zaboč do ulice, ktorou si nikdy nešiel. Nájdi jednu vec, čo stojí za fotku.",
+        "de": "Bieg auf deinem üblichen Weg in eine Straße ab, die du noch nie gegangen bist. Finde etwas Fotowürdiges.",
+        "es": "En un camino que siempre haces, métete en una calle por la que nunca has pasado. Encuentra algo digno de una foto.",
+        "pt": "Num caminho que fazes sempre, vira para uma rua onde nunca andaste. Encontra uma coisa que mereça uma foto."
+      }
+    },
+    {
+      "id": "e073",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Look up",
+        "cs": "Podívej se nahoru",
+        "sk": "Pozri sa hore",
+        "de": "Schau nach oben",
+        "es": "Mira hacia arriba",
+        "pt": "Olha para cima"
+      },
+      "description": {
+        "en": "Walk one block looking only above the ground floor. Photograph the strangest detail you find.",
+        "cs": "Projdi jeden blok a dívej se jen nad přízemí. Vyfoť nejpodivnější detail, který najdeš.",
+        "sk": "Prejdi jeden blok a pozeraj sa len nad prízemie. Odfoť najzvláštnejší detail, ktorý nájdeš.",
+        "de": "Geh einen Block und schau nur über das Erdgeschoss. Fotografiere das seltsamste Detail.",
+        "es": "Camina una cuadra mirando solo por encima de la planta baja. Fotografía el detalle más raro que encuentres.",
+        "pt": "Anda um quarteirão a olhar só acima do rés-do-chão. Fotografa o detalhe mais estranho que encontrares."
+      }
+    },
+    {
+      "id": "e074",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Sit somewhere new",
+        "cs": "Sedni si někam jinam",
+        "sk": "Sadni si niekam inam",
+        "de": "Setz dich woanders hin",
+        "es": "Siéntate en otro lugar",
+        "pt": "Senta-te noutro sítio"
+      },
+      "description": {
+        "en": "Find a bench you've never sat on. Sit ten minutes, phone away, and just watch.",
+        "cs": "Najdi lavičku, na které jsi nikdy neseděl. Seď deset minut bez telefonu a jen pozoruj.",
+        "sk": "Nájdi lavičku, na ktorej si nikdy nesedel. Seď desať minút bez telefónu a len pozoruj.",
+        "de": "Finde eine Bank, auf der du nie gesessen hast. Sitz zehn Minuten ohne Handy da und schau einfach.",
+        "es": "Encuentra una banca en la que nunca te hayas sentado. Siéntate diez minutos sin celular y solo observa.",
+        "pt": "Encontra um banco onde nunca te sentaste. Fica dez minutos sem telemóvel, só a observar."
+      }
+    },
+    {
+      "id": "e075",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Find the oldest thing",
+        "cs": "Najdi nejstarší věc",
+        "sk": "Nájdi najstaršiu vec",
+        "de": "Finde das Älteste",
+        "es": "Encuentra lo más antiguo",
+        "pt": "Encontra a coisa mais antiga"
+      },
+      "description": {
+        "en": "Within a ten-minute walk, find the oldest thing you can — a door, a tree, a sign. Guess its age.",
+        "cs": "Do deseti minut chůze najdi tu nejstarší věc — dveře, strom, ceduli. Odhadni, jak je stará.",
+        "sk": "Do desiatich minút chôdze nájdi tú najstaršiu vec — dvere, strom, tabuľu. Odhadni, aká je stará.",
+        "de": "Finde im Umkreis von zehn Gehminuten das Älteste, was du kannst – Tür, Baum, Schild. Schätz sein Alter.",
+        "es": "A diez minutos caminando, encuentra lo más antiguo que puedas: una puerta, un árbol, un letrero. Adivina su edad.",
+        "pt": "A dez minutos a pé, encontra a coisa mais antiga que conseguires — uma porta, uma árvore, uma placa. Adivinha a idade."
+      }
+    },
+    {
+      "id": "e076",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Follow a sound",
+        "cs": "Jdi za zvukem",
+        "sk": "Choď za zvukom",
+        "de": "Folge einem Geräusch",
+        "es": "Sigue un sonido",
+        "pt": "Segue um som"
+      },
+      "description": {
+        "en": "Step outside, close your eyes for 30 seconds, then walk towards the most interesting sound you heard.",
+        "cs": "Vyjdi ven, na 30 vteřin zavři oči a pak jdi za nejzajímavějším zvukem, který jsi slyšel.",
+        "sk": "Vyjdi von, na 30 sekúnd zavri oči a potom choď za najzaujímavejším zvukom, ktorý si počul.",
+        "de": "Geh raus, schließ 30 Sekunden die Augen und geh dann dem interessantesten Geräusch nach.",
+        "es": "Sal, cierra los ojos 30 segundos y luego camina hacia el sonido más interesante que oíste.",
+        "pt": "Sai, fecha os olhos 30 segundos e depois caminha na direção do som mais interessante que ouviste."
+      }
+    },
+    {
+      "id": "e077",
+      "category": "exploration",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Ten-minute tourist",
+        "cs": "Desetiminutový turista",
+        "sk": "Desaťminútový turista",
+        "de": "Zehn-Minuten-Tourist",
+        "es": "Turista por diez minutos",
+        "pt": "Turista por dez minutos"
+      },
+      "description": {
+        "en": "Pretend you're visiting your own street for the first time. Take the three photos a tourist would.",
+        "cs": "Předstírej, že svou ulici navštěvuješ poprvé. Udělej tři fotky, které by udělal turista.",
+        "sk": "Predstieraj, že svoju ulicu navštevuješ prvýkrát. Urob tri fotky, ktoré by urobil turista.",
+        "de": "Tu so, als würdest du deine Straße zum ersten Mal besuchen. Mach die drei Fotos, die ein Tourist machen würde.",
+        "es": "Finge que visitas tu propia calle por primera vez. Toma las tres fotos que tomaría un turista.",
+        "pt": "Finge que visitas a tua rua pela primeira vez. Tira as três fotos que um turista tiraria."
+      }
+    },
+    {
+      "id": "cr069",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Draw what's in front of you",
+        "cs": "Nakresli, co máš před sebou",
+        "sk": "Nakresli, čo máš pred sebou",
+        "de": "Zeichne, was vor dir ist",
+        "es": "Dibuja lo que tienes enfrente",
+        "pt": "Desenha o que tens à frente"
+      },
+      "description": {
+        "en": "Five minutes, any pen, any paper. Draw exactly what you see right now. Bad is allowed.",
+        "cs": "Pět minut, jakákoli tužka, jakýkoli papír. Nakresli přesně to, co teď vidíš. Špatně je dovoleno.",
+        "sk": "Päť minút, akékoľvek pero, akýkoľvek papier. Nakresli presne to, čo teraz vidíš. Zle je dovolené.",
+        "de": "Fünf Minuten, irgendein Stift, irgendein Papier. Zeichne genau, was du gerade siehst. Schlecht ist erlaubt.",
+        "es": "Cinco minutos, cualquier pluma, cualquier papel. Dibuja exactamente lo que ves ahora. Se vale que quede mal.",
+        "pt": "Cinco minutos, qualquer caneta, qualquer papel. Desenha exatamente o que vês agora. Mal é permitido."
+      }
+    },
+    {
+      "id": "cr070",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Six-word story",
+        "cs": "Příběh na šest slov",
+        "sk": "Príbeh na šesť slov",
+        "de": "Geschichte in sechs Wörtern",
+        "es": "Historia de seis palabras",
+        "pt": "História em seis palavras"
+      },
+      "description": {
+        "en": "Write the story of your week in exactly six words. Send it to someone.",
+        "cs": "Napiš příběh svého týdne přesně na šest slov. Pošli ho někomu.",
+        "sk": "Napíš príbeh svojho týždňa presne na šesť slov. Pošli ho niekomu.",
+        "de": "Schreib die Geschichte deiner Woche in genau sechs Wörtern. Schick sie jemandem.",
+        "es": "Escribe la historia de tu semana en exactamente seis palabras. Mándasela a alguien.",
+        "pt": "Escreve a história da tua semana em exatamente seis palavras. Manda-a a alguém."
+      }
+    },
+    {
+      "id": "cr071",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Hidden note",
+        "cs": "Schovaný vzkaz",
+        "sk": "Schovaný odkaz",
+        "de": "Versteckte Nachricht",
+        "es": "Nota escondida",
+        "pt": "Bilhete escondido"
+      },
+      "description": {
+        "en": "Write a kind anonymous note and leave it where a stranger will find it — a library book, a bench.",
+        "cs": "Napiš milý anonymní vzkaz a nech ho tam, kde ho najde cizí člověk — v knize z knihovny, na lavičce.",
+        "sk": "Napíš milý anonymný odkaz a nechaj ho tam, kde ho nájde cudzí človek — v knihe z knižnice, na lavičke.",
+        "de": "Schreib eine nette anonyme Nachricht und lass sie dort, wo ein Fremder sie findet – im Bibliotheksbuch, auf einer Bank.",
+        "es": "Escribe una nota amable y anónima y déjala donde la encuentre un desconocido: un libro de la biblioteca, una banca.",
+        "pt": "Escreve um bilhete simpático e anónimo e deixa-o onde um desconhecido o encontre — num livro da biblioteca, num banco."
+      }
+    },
+    {
+      "id": "cr072",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Photo in one colour",
+        "cs": "Fotka v jedné barvě",
+        "sk": "Fotka v jednej farbe",
+        "de": "Foto in einer Farbe",
+        "es": "Foto de un solo color",
+        "pt": "Foto de uma só cor"
+      },
+      "description": {
+        "en": "Pick a colour. Find and photograph five things in it within ten minutes.",
+        "cs": "Vyber barvu. Do deseti minut najdi a vyfoť pět věcí v té barvě.",
+        "sk": "Vyber farbu. Do desiatich minút nájdi a odfoť päť vecí v tej farbe.",
+        "de": "Wähl eine Farbe. Finde und fotografiere in zehn Minuten fünf Dinge in dieser Farbe.",
+        "es": "Elige un color. Encuentra y fotografía cinco cosas de ese color en diez minutos.",
+        "pt": "Escolhe uma cor. Encontra e fotografa cinco coisas dessa cor em dez minutos."
+      }
+    },
+    {
+      "id": "cr073",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Hum it, name it",
+        "cs": "Zabruč a pojmenuj",
+        "sk": "Zabruč a pomenuj",
+        "de": "Summ es, nenn es",
+        "es": "Tararéala y ponle nombre",
+        "pt": "Trauteia e dá-lhe nome"
+      },
+      "description": {
+        "en": "Make up a ten-second melody, record it as a voice memo, and give it a ridiculous title.",
+        "cs": "Vymysli desetivteřinovou melodii, nahraj ji jako hlasovou poznámku a dej jí směšný název.",
+        "sk": "Vymysli desaťsekundovú melódiu, nahraj ju ako hlasovú poznámku a daj jej smiešny názov.",
+        "de": "Erfinde eine Zehn-Sekunden-Melodie, nimm sie als Sprachmemo auf und gib ihr einen absurden Titel.",
+        "es": "Inventa una melodía de diez segundos, grábala como nota de voz y ponle un título ridículo.",
+        "pt": "Inventa uma melodia de dez segundos, grava-a como nota de voz e dá-lhe um título ridículo."
+      }
+    },
+    {
+      "id": "cr074",
+      "category": "creative",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Origami anything",
+        "cs": "Origami čehokoli",
+        "sk": "Origami čohokoľvek",
+        "de": "Origami, egal was",
+        "es": "Origami de lo que sea",
+        "pt": "Origami de qualquer coisa"
+      },
+      "description": {
+        "en": "Fold something out of a receipt or a scrap of paper. Leave it somewhere someone will smile at it.",
+        "cs": "Slož něco z účtenky nebo útržku papíru. Nech to někde, kde se nad tím někdo usměje.",
+        "sk": "Zlož niečo z bločku alebo útržku papiera. Nechaj to niekde, kde sa nad tým niekto usmeje.",
+        "de": "Falte etwas aus einem Kassenzettel oder Papierschnipsel. Lass es dort, wo jemand darüber lächelt.",
+        "es": "Dobla algo con un ticket o un pedazo de papel. Déjalo donde alguien sonría al verlo.",
+        "pt": "Dobra algo com um talão ou um pedaço de papel. Deixa-o onde alguém sorria ao vê-lo."
+      }
+    },
+    {
+      "id": "c069",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Fruit you've never had",
+        "cs": "Ovoce, které jsi nejedl",
+        "sk": "Ovocie, ktoré si nejedol",
+        "de": "Obst, das du nie hattest",
+        "es": "Una fruta que nunca probaste",
+        "pt": "Uma fruta que nunca provaste"
+      },
+      "description": {
+        "en": "Buy one fruit or vegetable you've never eaten. Try it today. Rate it out of ten.",
+        "cs": "Kup jedno ovoce nebo zeleninu, kterou jsi nikdy nejedl. Ochutnej ji dnes. Ohodnoť ji z deseti.",
+        "sk": "Kúp jedno ovocie alebo zeleninu, ktorú si nikdy nejedol. Ochutnaj ju dnes. Ohodnoť ju z desiatich.",
+        "de": "Kauf ein Obst oder Gemüse, das du nie gegessen hast. Probier es heute. Gib eine Note von eins bis zehn.",
+        "es": "Compra una fruta o verdura que nunca hayas comido. Pruébala hoy. Califícala del uno al diez.",
+        "pt": "Compra uma fruta ou legume que nunca comeste. Prova hoje. Dá-lhe nota de um a dez."
+      }
+    },
+    {
+      "id": "c070",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Breakfast for someone",
+        "cs": "Snídaně pro někoho",
+        "sk": "Raňajky pre niekoho",
+        "de": "Frühstück für jemanden",
+        "es": "Desayuno para alguien",
+        "pt": "Pequeno-almoço para alguém"
+      },
+      "description": {
+        "en": "Make breakfast for someone you live with — or bring a coffee to a colleague. No reason needed.",
+        "cs": "Udělej snídani někomu, s kým bydlíš — nebo přines kafe kolegovi. Žádný důvod není potřeba.",
+        "sk": "Urob raňajky niekomu, s kým bývaš — alebo prines kávu kolegovi. Žiadny dôvod netreba.",
+        "de": "Mach jemandem, mit dem du wohnst, Frühstück – oder bring einer Kollegin einen Kaffee. Ohne Grund.",
+        "es": "Prepara el desayuno para alguien con quien vives, o llévale un café a un compañero. Sin motivo.",
+        "pt": "Faz o pequeno-almoço a alguém com quem vives — ou leva um café a um colega. Sem razão nenhuma."
+      }
+    },
+    {
+      "id": "c071",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Eat without a screen",
+        "cs": "Jez bez obrazovky",
+        "sk": "Jedz bez obrazovky",
+        "de": "Essen ohne Bildschirm",
+        "es": "Come sin pantallas",
+        "pt": "Come sem ecrãs"
+      },
+      "description": {
+        "en": "One whole meal, no phone, no TV. Notice three flavours you'd normally miss.",
+        "cs": "Jedno celé jídlo bez telefonu a televize. Všimni si tří chutí, které bys normálně přehlédl.",
+        "sk": "Jedno celé jedlo bez telefónu a televízie. Všimni si troch chutí, ktoré by si normálne prehliadol.",
+        "de": "Eine ganze Mahlzeit, kein Handy, kein Fernseher. Achte auf drei Aromen, die du sonst verpasst.",
+        "es": "Una comida completa sin celular ni tele. Nota tres sabores que normalmente se te pasarían.",
+        "pt": "Uma refeição inteira, sem telemóvel nem televisão. Repara em três sabores que normalmente te escapavam."
+      }
+    },
+    {
+      "id": "c072",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Spice roulette",
+        "cs": "Kořenková ruleta",
+        "sk": "Koreninová ruleta",
+        "de": "Gewürzroulette",
+        "es": "Ruleta de especias",
+        "pt": "Roleta de especiarias"
+      },
+      "description": {
+        "en": "Close your eyes, grab a spice you rarely use, and put it in tonight's dinner.",
+        "cs": "Zavři oči, vezmi koření, které skoro nepoužíváš, a dej ho do dnešní večeře.",
+        "sk": "Zavri oči, vezmi koreninu, ktorú skoro nepoužívaš, a daj ju do dnešnej večere.",
+        "de": "Augen zu, greif ein Gewürz, das du selten nimmst, und tu es ins heutige Abendessen.",
+        "es": "Cierra los ojos, agarra una especia que casi no usas y ponla en la cena de hoy.",
+        "pt": "Fecha os olhos, pega numa especiaria que quase não usas e põe-na no jantar de hoje."
+      }
+    },
+    {
+      "id": "c073",
+      "category": "culinary",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "The perfect cup",
+        "cs": "Dokonalý šálek",
+        "sk": "Dokonalá šálka",
+        "de": "Die perfekte Tasse",
+        "es": "La taza perfecta",
+        "pt": "A chávena perfeita"
+      },
+      "description": {
+        "en": "Make tea or coffee slowly, like it's a ceremony. Drink it outside.",
+        "cs": "Připrav si čaj nebo kafe pomalu, jako by to byl obřad. Vypij ho venku.",
+        "sk": "Priprav si čaj alebo kávu pomaly, akoby to bol obrad. Vypi ju vonku.",
+        "de": "Mach Tee oder Kaffee ganz langsam, wie eine Zeremonie. Trink ihn draußen.",
+        "es": "Prepara té o café despacio, como si fuera una ceremonia. Tómatelo afuera.",
+        "pt": "Prepara chá ou café devagar, como se fosse uma cerimónia. Bebe-o lá fora."
+      }
+    },
+    {
+      "id": "p069",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Stairs, all of them",
+        "cs": "Schody, všechny",
+        "sk": "Schody, všetky",
+        "de": "Treppe, immer",
+        "es": "Escaleras, todas",
+        "pt": "Escadas, todas"
+      },
+      "description": {
+        "en": "No elevators or escalators today. Every single staircase, on foot.",
+        "cs": "Dnes žádný výtah ani eskalátor. Každé schodiště pěšky.",
+        "sk": "Dnes žiadny výťah ani eskalátor. Každé schodisko pešo.",
+        "de": "Heute kein Aufzug, keine Rolltreppe. Jede einzelne Treppe zu Fuß.",
+        "es": "Hoy nada de elevadores ni escaleras eléctricas. Todas las escaleras, a pie.",
+        "pt": "Hoje nada de elevadores nem escadas rolantes. Todas as escadas, a pé."
+      }
+    },
+    {
+      "id": "p070",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Walk and call",
+        "cs": "Procházka s hovorem",
+        "sk": "Prechádzka s hovorom",
+        "de": "Geh-Telefonat",
+        "es": "Camina y llama",
+        "pt": "Caminha e liga"
+      },
+      "description": {
+        "en": "Take your next phone call while walking outside. Don't stop until it ends.",
+        "cs": "Další telefonát vyřiď při procházce venku. Nezastavuj, dokud neskončí.",
+        "sk": "Ďalší telefonát vybav pri prechádzke vonku. Nezastavuj, kým neskončí.",
+        "de": "Führ dein nächstes Telefonat beim Spazieren draußen. Bleib nicht stehen, bis es vorbei ist.",
+        "es": "Atiende tu próxima llamada caminando afuera. No te detengas hasta que termine.",
+        "pt": "Atende a próxima chamada a caminhar lá fora. Não pares até acabar."
+      }
+    },
+    {
+      "id": "p071",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Barefoot minute",
+        "cs": "Minuta naboso",
+        "sk": "Minúta naboso",
+        "de": "Eine Minute barfuß",
+        "es": "Un minuto descalzo",
+        "pt": "Um minuto descalço"
+      },
+      "description": {
+        "en": "Find grass, sand or a clean floor and stand barefoot for one full minute. Notice everything.",
+        "cs": "Najdi trávu, písek nebo čistou podlahu a stůj minutu naboso. Všímej si všeho.",
+        "sk": "Nájdi trávu, piesok alebo čistú podlahu a stoj minútu naboso. Všímaj si všetko.",
+        "de": "Finde Gras, Sand oder einen sauberen Boden und steh eine volle Minute barfuß. Nimm alles wahr.",
+        "es": "Encuentra pasto, arena o un piso limpio y quédate descalzo un minuto entero. Nota todo.",
+        "pt": "Encontra relva, areia ou um chão limpo e fica descalço um minuto inteiro. Repara em tudo."
+      }
+    },
+    {
+      "id": "p072",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "One song, full send",
+        "cs": "Jedna písnička naplno",
+        "sk": "Jedna pesnička naplno",
+        "de": "Ein Song, volle Power",
+        "es": "Una canción a tope",
+        "pt": "Uma música a fundo"
+      },
+      "description": {
+        "en": "Put on a song you love and dance to the whole thing. Alone counts. Badly counts.",
+        "cs": "Pusť si písničku, kterou miluješ, a protancuj ji celou. Sám se počítá. Špatně se počítá.",
+        "sk": "Pusti si pesničku, ktorú miluješ, a pretancuj ju celú. Sám sa počíta. Zle sa počíta.",
+        "de": "Leg einen Song auf, den du liebst, und tanz ihn komplett durch. Allein zählt. Schlecht zählt.",
+        "es": "Pon una canción que te encante y báilala completa. Solo cuenta. Mal también cuenta.",
+        "pt": "Põe uma música de que gostas e dança-a até ao fim. Sozinho conta. Mal também conta."
+      }
+    },
+    {
+      "id": "p073",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Get off one stop early",
+        "cs": "Vystup o zastávku dřív",
+        "sk": "Vystúp o zastávku skôr",
+        "de": "Eine Station früher aussteigen",
+        "es": "Bájate una parada antes",
+        "pt": "Sai uma paragem antes"
+      },
+      "description": {
+        "en": "On your next ride, get off one stop early and walk the rest.",
+        "cs": "Při další jízdě vystup o zastávku dřív a zbytek dojdi pěšky.",
+        "sk": "Pri ďalšej jazde vystúp o zastávku skôr a zvyšok dojdi pešo.",
+        "de": "Steig bei deiner nächsten Fahrt eine Station früher aus und lauf den Rest.",
+        "es": "En tu próximo viaje, bájate una parada antes y camina lo que falta.",
+        "pt": "Na próxima viagem, sai uma paragem antes e faz o resto a pé."
+      }
+    },
+    {
+      "id": "p074",
+      "category": "physical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Sky stretch",
+        "cs": "Protažení k nebi",
+        "sk": "Pretiahnutie k nebu",
+        "de": "Strecken zum Himmel",
+        "es": "Estiramiento al cielo",
+        "pt": "Alongamento ao céu"
+      },
+      "description": {
+        "en": "Go outside and stretch for five minutes while looking at the sky. Count the clouds or birds.",
+        "cs": "Jdi ven a pět minut se protahuj s pohledem na nebe. Počítej mraky nebo ptáky.",
+        "sk": "Choď von a päť minút sa preťahuj s pohľadom na nebo. Počítaj oblaky alebo vtáky.",
+        "de": "Geh raus und streck dich fünf Minuten mit Blick in den Himmel. Zähl Wolken oder Vögel.",
+        "es": "Sal y estírate cinco minutos mirando el cielo. Cuenta las nubes o los pájaros.",
+        "pt": "Vai lá fora e alonga-te cinco minutos a olhar para o céu. Conta as nuvens ou os pássaros."
+      }
+    },
+    {
+      "id": "r050",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Coin flip decision",
+        "cs": "Rozhodne mince",
+        "sk": "Rozhodne minca",
+        "de": "Münze entscheidet",
+        "es": "Decide una moneda",
+        "pt": "Decide uma moeda"
+      },
+      "description": {
+        "en": "Let a coin flip decide one small thing today — lunch, route, or what to wear — and obey it.",
+        "cs": "Nech dnes minci rozhodnout jednu malou věc — oběd, cestu nebo oblečení — a poslechni ji.",
+        "sk": "Nechaj dnes mincu rozhodnúť jednu malú vec — obed, cestu alebo oblečenie — a poslúchni ju.",
+        "de": "Lass heute eine Münze eine Kleinigkeit entscheiden – Mittagessen, Weg oder Outfit – und halte dich daran.",
+        "es": "Deja que una moneda decida algo pequeño hoy —la comida, el camino o la ropa— y obedécela.",
+        "pt": "Deixa uma moeda decidir uma coisa pequena hoje — o almoço, o caminho ou a roupa — e obedece."
+      }
+    },
+    {
+      "id": "r051",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Delete ten photos",
+        "cs": "Smaž deset fotek",
+        "sk": "Zmaž desať fotiek",
+        "de": "Lösch zehn Fotos",
+        "es": "Borra diez fotos",
+        "pt": "Apaga dez fotos"
+      },
+      "description": {
+        "en": "Scroll back a year in your camera roll. Delete ten you'll never miss, favourite one you forgot about.",
+        "cs": "Odscrolluj v galerii o rok zpátky. Smaž deset fotek, které ti chybět nebudou, a jednu zapomenutou dej do oblíbených.",
+        "sk": "Odscrolluj v galérii o rok späť. Zmaž desať fotiek, ktoré ti chýbať nebudú, a jednu zabudnutú daj do obľúbených.",
+        "de": "Scroll in deiner Galerie ein Jahr zurück. Lösch zehn, die du nie vermissen wirst, und markier eine vergessene als Favorit.",
+        "es": "Regresa un año en tu galería. Borra diez que nunca extrañarás y marca como favorita una que habías olvidado.",
+        "pt": "Recua um ano na galeria. Apaga dez que nunca vais sentir falta e marca como favorita uma de que te tinhas esquecido."
+      }
+    },
+    {
+      "id": "r052",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Opposite hand",
+        "cs": "Druhá ruka",
+        "sk": "Druhá ruka",
+        "de": "Andere Hand",
+        "es": "La otra mano",
+        "pt": "A outra mão"
+      },
+      "description": {
+        "en": "Brush your teeth, open doors and use your phone with your other hand for an hour.",
+        "cs": "Hodinu si čisti zuby, otvírej dveře a používej telefon druhou rukou.",
+        "sk": "Hodinu si čisti zuby, otváraj dvere a používaj telefón druhou rukou.",
+        "de": "Putz eine Stunde lang Zähne, öffne Türen und benutz dein Handy mit der anderen Hand.",
+        "es": "Durante una hora lávate los dientes, abre puertas y usa el celular con la otra mano.",
+        "pt": "Durante uma hora lava os dentes, abre portas e usa o telemóvel com a outra mão."
+      }
+    },
+    {
+      "id": "r053",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Ask the bookseller",
+        "cs": "Zeptej se knihkupce",
+        "sk": "Opýtaj sa kníhkupca",
+        "de": "Frag die Buchhandlung",
+        "es": "Pregúntale al librero",
+        "pt": "Pergunta ao livreiro"
+      },
+      "description": {
+        "en": "Walk into a bookshop or library and ask the staff for their favourite book. Read the first page there.",
+        "cs": "Zajdi do knihkupectví nebo knihovny a zeptej se personálu na jejich oblíbenou knihu. Přečti si tam první stránku.",
+        "sk": "Zájdi do kníhkupectva alebo knižnice a opýtaj sa personálu na ich obľúbenú knihu. Prečítaj si tam prvú stranu.",
+        "de": "Geh in eine Buchhandlung oder Bibliothek und frag nach dem Lieblingsbuch des Personals. Lies dort die erste Seite.",
+        "es": "Entra a una librería o biblioteca y pregunta al personal por su libro favorito. Lee ahí la primera página.",
+        "pt": "Entra numa livraria ou biblioteca e pergunta aos funcionários pelo livro preferido deles. Lê lá a primeira página."
+      }
+    },
+    {
+      "id": "r054",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Future-you letter",
+        "cs": "Dopis budoucímu já",
+        "sk": "List budúcemu ja",
+        "de": "Brief an dein Zukunfts-Ich",
+        "es": "Carta a tu yo del futuro",
+        "pt": "Carta ao teu eu do futuro"
+      },
+      "description": {
+        "en": "Write five sentences to yourself one year from now. Set a calendar reminder to read it.",
+        "cs": "Napiš pět vět sobě za rok. Nastav si v kalendáři připomínku, ať si to přečteš.",
+        "sk": "Napíš päť viet sebe o rok. Nastav si v kalendári pripomienku, nech si to prečítaš.",
+        "de": "Schreib fünf Sätze an dich in einem Jahr. Stell eine Kalendererinnerung zum Lesen.",
+        "es": "Escribe cinco frases para ti dentro de un año. Pon un recordatorio en el calendario para leerlas.",
+        "pt": "Escreve cinco frases para ti daqui a um ano. Põe um lembrete no calendário para as leres."
+      }
+    },
+    {
+      "id": "r055",
+      "category": "random",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Gratitude speed-run",
+        "cs": "Rychlovka vděčnosti",
+        "sk": "Rýchlovka vďačnosti",
+        "de": "Dankbarkeits-Speedrun",
+        "es": "Gratitud contrarreloj",
+        "pt": "Gratidão contra-relógio"
+      },
+      "description": {
+        "en": "Set a two-minute timer and write down as many things you're grateful for as you can.",
+        "cs": "Nastav si dvě minuty a napiš co nejvíc věcí, za které jsi vděčný.",
+        "sk": "Nastav si dve minúty a napíš čo najviac vecí, za ktoré si vďačný.",
+        "de": "Stell einen Zwei-Minuten-Timer und schreib so viele Dinge auf, für die du dankbar bist, wie du kannst.",
+        "es": "Pon un temporizador de dos minutos y escribe todas las cosas por las que estás agradecido.",
+        "pt": "Põe um temporizador de dois minutos e escreve o máximo de coisas pelas quais és grato."
+      }
+    },
+    {
+      "id": "m047",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Fix the small thing",
+        "cs": "Oprav tu drobnost",
+        "sk": "Oprav tú drobnosť",
+        "de": "Repariere die Kleinigkeit",
+        "es": "Arregla la cosa pequeña",
+        "pt": "Conserta a coisa pequena"
+      },
+      "description": {
+        "en": "That loose screw, wobbly chair or dead battery you've ignored for weeks. Fix it now.",
+        "cs": "Ten uvolněný šroub, viklající se židle nebo vybitá baterie, kterou týdny ignoruješ. Oprav to teď.",
+        "sk": "Tá uvoľnená skrutka, kývajúca sa stolička alebo vybitá batéria, ktorú týždne ignoruješ. Oprav to teraz.",
+        "de": "Die lose Schraube, der wackelige Stuhl oder die leere Batterie, die du seit Wochen ignorierst. Reparier es jetzt.",
+        "es": "Ese tornillo flojo, esa silla que cojea o esa pila muerta que llevas semanas ignorando. Arréglalo ya.",
+        "pt": "Aquele parafuso solto, a cadeira que abana ou a pilha gasta que ignoras há semanas. Conserta agora."
+      }
+    },
+    {
+      "id": "m048",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Take it apart",
+        "cs": "Rozeber to",
+        "sk": "Rozober to",
+        "de": "Nimm es auseinander",
+        "es": "Desármalo",
+        "pt": "Desmonta-o"
+      },
+      "description": {
+        "en": "Find something broken you were going to throw away. Open it up and see how it works inside.",
+        "cs": "Najdi něco rozbitého, co jsi chtěl vyhodit. Otevři to a podívej se, jak to funguje uvnitř.",
+        "sk": "Nájdi niečo pokazené, čo si chcel vyhodiť. Otvor to a pozri sa, ako to funguje vnútri.",
+        "de": "Finde etwas Kaputtes, das du wegwerfen wolltest. Öffne es und schau, wie es innen funktioniert.",
+        "es": "Encuentra algo roto que ibas a tirar. Ábrelo y mira cómo funciona por dentro.",
+        "pt": "Encontra algo avariado que ias deitar fora. Abre-o e vê como funciona por dentro."
+      }
+    },
+    {
+      "id": "m049",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Learn one knot",
+        "cs": "Nauč se jeden uzel",
+        "sk": "Nauč sa jeden uzol",
+        "de": "Lern einen Knoten",
+        "es": "Aprende un nudo",
+        "pt": "Aprende um nó"
+      },
+      "description": {
+        "en": "Learn one useful knot — a bowline, a clove hitch — and tie it from memory three times.",
+        "cs": "Nauč se jeden užitečný uzel — lodní smyčku, dračí smyčku — a třikrát ho uvaž zpaměti.",
+        "sk": "Nauč sa jeden užitočný uzol — lodný uzol, slučku — a trikrát ho uviaž spamäti.",
+        "de": "Lern einen nützlichen Knoten – Palstek, Webeleinstek – und binde ihn dreimal aus dem Kopf.",
+        "es": "Aprende un nudo útil —as de guía, ballestrinque— y átalo de memoria tres veces.",
+        "pt": "Aprende um nó útil — lais de guia, volta de fiel — e dá-o de memória três vezes."
+      }
+    },
+    {
+      "id": "m050",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Silence the squeak",
+        "cs": "Umlč vrzání",
+        "sk": "Umlč vŕzganie",
+        "de": "Bring das Quietschen zum Schweigen",
+        "es": "Calla el rechinido",
+        "pt": "Cala o chiar"
+      },
+      "description": {
+        "en": "Find the squeakiest hinge or drawer at home and make it silent.",
+        "cs": "Najdi doma nejvíc vrzající pant nebo šuplík a umlč ho.",
+        "sk": "Nájdi doma najviac vŕzgajúci pánt alebo šuplík a umlč ho.",
+        "de": "Finde das quietschigste Scharnier oder die lauteste Schublade zu Hause und bring sie zum Schweigen.",
+        "es": "Encuentra la bisagra o el cajón que más rechina en casa y haz que deje de sonar.",
+        "pt": "Encontra a dobradiça ou a gaveta que mais chia em casa e põe-na em silêncio."
+      }
+    },
+    {
+      "id": "m051",
+      "category": "mechanical",
+      "difficulty": "funAndSafe",
+      "title": {
+        "en": "Tame the cable drawer",
+        "cs": "Zkroť šuplík s kabely",
+        "sk": "Skroť šuplík s káblami",
+        "de": "Bändige die Kabelschublade",
+        "es": "Doma el cajón de cables",
+        "pt": "Domina a gaveta dos cabos"
+      },
+      "description": {
+        "en": "Untangle every cable in one drawer, label what each one charges, and bin the ones that charge nothing.",
+        "cs": "Rozmotej všechny kabely v jednom šuplíku, označ, co který nabíjí, a vyhoď ty, co nenabíjí nic.",
+        "sk": "Rozmotaj všetky káble v jednom šuplíku, označ, čo ktorý nabíja, a vyhoď tie, čo nenabíjajú nič.",
+        "de": "Entwirr jedes Kabel in einer Schublade, beschrifte, was es lädt, und wirf weg, was nichts mehr lädt.",
+        "es": "Desenreda todos los cables de un cajón, etiqueta qué carga cada uno y tira los que no cargan nada.",
+        "pt": "Desembaraça todos os cabos de uma gaveta, identifica o que cada um carrega e deita fora os que não carregam nada."
+      }
     }
   ],
   "questlines": [
@@ -11613,6 +12453,261 @@
             "de": "Geh nach Einbruch der Dunkelheit irgendwohin, wo du nachts noch nie warst – ein Waldweg, ein Park, eine Altstadt. Nimm jemanden und eine Taschenlampe mit. Bleib sicher und legal.",
             "es": "Camina de noche por un lugar donde nunca hayas estado a esas horas: un sendero, un parque, un casco antiguo. Lleva a alguien y una linterna. No te arriesgues y no rompas ninguna ley.",
             "pt": "Passeia depois de escurecer por um sítio onde nunca estiveste à noite — um trilho, um parque, uma zona antiga. Leva um amigo e uma lanterna. Mantém-te em segurança e dentro da lei."
+          }
+        }
+      ]
+    },
+    {
+      "id": "winter2026",
+      "emoji": "❄️",
+      "theme": "snow",
+      "startsAt": "2026-12-18T00:00:00Z",
+      "endsAt": "2027-01-06T23:59:59Z",
+      "premium": false,
+      "title": {
+        "en": "The Long Winter",
+        "cs": "Dlouhá zima",
+        "sk": "Dlhá zima",
+        "de": "Der lange Winter",
+        "es": "El largo invierno",
+        "pt": "O longo inverno"
+      },
+      "subtitle": {
+        "en": "A 10-part questline from Christmas to New Year. Limited time only.",
+        "cs": "Série 10 questů od Vánoc do Nového roku. Jen po omezenou dobu.",
+        "sk": "Séria 10 questov od Vianoc do Nového roka. Len na obmedzený čas.",
+        "de": "Eine Questreihe in 10 Teilen, von Weihnachten bis Neujahr. Nur für kurze Zeit.",
+        "es": "Una serie de 10 misiones de Navidad a Año Nuevo. Solo por tiempo limitado.",
+        "pt": "Uma série de 10 missões do Natal ao Ano Novo. Só por tempo limitado."
+      },
+      "badge": {
+        "emoji": "⛄",
+        "name": {
+          "en": "Winter Legend 2026",
+          "cs": "Zimní legenda 2026",
+          "sk": "Zimná legenda 2026",
+          "de": "Winterlegende 2026",
+          "es": "Leyenda invernal 2026",
+          "pt": "Lenda de Inverno 2026"
+        },
+        "description": {
+          "en": "Finished all 10 parts of The Long Winter (Christmas 2026).",
+          "cs": "Všech 10 částí Dlouhé zimy (Vánoce 2026) splněno.",
+          "sk": "Všetkých 10 častí Dlhej zimy (Vianoce 2026) splnených.",
+          "de": "Alle 10 Teile von „Der lange Winter“ (Weihnachten 2026) geschafft.",
+          "es": "Completaste las 10 partes de El largo invierno (Navidad 2026).",
+          "pt": "Completaste as 10 partes de O longo inverno (Natal 2026)."
+        }
+      },
+      "steps": [
+        {
+          "id": "ql.winter2026.1",
+          "category": "creative",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "Made by Hand",
+            "cs": "Vyrobeno ručně",
+            "sk": "Vyrobené ručne",
+            "de": "Handgemacht",
+            "es": "Hecho a mano",
+            "pt": "Feito à mão"
+          },
+          "description": {
+            "en": "Make a gift or a card with your own hands — no shop-bought stuff — and give it to someone in person.",
+            "cs": "Vyrob dárek nebo přání vlastníma rukama — nic z obchodu — a předej ho někomu osobně.",
+            "sk": "Vyrob darček alebo pozdrav vlastnými rukami — nič z obchodu — a odovzdaj ho niekomu osobne.",
+            "de": "Bastle ein Geschenk oder eine Karte mit deinen eigenen Händen – nichts Gekauftes – und übergib es persönlich.",
+            "es": "Haz un regalo o una tarjeta con tus propias manos —nada comprado— y entrégalo en persona.",
+            "pt": "Faz um presente ou um postal com as tuas próprias mãos — nada comprado — e entrega-o em pessoa."
+          }
+        },
+        {
+          "id": "ql.winter2026.2",
+          "category": "social",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "Thank the Invisible",
+            "cs": "Poděkuj neviditelným",
+            "sk": "Poďakuj neviditeľným",
+            "de": "Danke an die Unsichtbaren",
+            "es": "Agradece a los invisibles",
+            "pt": "Agradece aos invisíveis"
+          },
+          "description": {
+            "en": "Someone is working through the holidays — a courier, a cashier, a cleaner. Give them a written thank-you and a small treat.",
+            "cs": "Někdo přes svátky pracuje — kurýr, pokladní, uklízečka. Dej mu napsané poděkování a malou dobrotu.",
+            "sk": "Niekto cez sviatky pracuje — kuriér, pokladníčka, upratovačka. Daj mu napísané poďakovanie a malú dobrotu.",
+            "de": "Jemand arbeitet über die Feiertage – Kurier, Kassiererin, Reinigungskraft. Gib ihnen ein geschriebenes Danke und eine Kleinigkeit.",
+            "es": "Alguien trabaja durante las fiestas: un repartidor, una cajera, alguien de limpieza. Dale un agradecimiento escrito y un detalle.",
+            "pt": "Alguém está a trabalhar durante as festas — um estafeta, uma caixa, alguém da limpeza. Dá-lhe um obrigado escrito e um miminho."
+          }
+        },
+        {
+          "id": "ql.winter2026.3",
+          "category": "exploration",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "Lights Hunt",
+            "cs": "Lov na světýlka",
+            "sk": "Lov na svetielka",
+            "de": "Lichterjagd",
+            "es": "Cacería de luces",
+            "pt": "Caça às luzes"
+          },
+          "description": {
+            "en": "Walk your town after dark and find the best holiday lights. Photograph your top three.",
+            "cs": "Projdi se po setmění po městě a najdi nejlepší vánoční výzdobu. Vyfoť svoje top tři.",
+            "sk": "Prejdi sa po zotmení po meste a nájdi najlepšiu vianočnú výzdobu. Odfoť svoje top tri.",
+            "de": "Lauf nach Einbruch der Dunkelheit durch deine Stadt und finde die schönsten Lichter. Fotografiere deine Top drei.",
+            "es": "Recorre tu ciudad de noche y encuentra las mejores luces navideñas. Fotografía tu top tres.",
+            "pt": "Percorre a tua cidade depois de escurecer e encontra as melhores luzes de Natal. Fotografa o teu top três."
+          }
+        },
+        {
+          "id": "ql.winter2026.4",
+          "category": "culinary",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "The Family Recipe",
+            "cs": "Rodinný recept",
+            "sk": "Rodinný recept",
+            "de": "Das Familienrezept",
+            "es": "La receta de la familia",
+            "pt": "A receita de família"
+          },
+          "description": {
+            "en": "Call an older relative, ask for a holiday recipe only they know, and cook it.",
+            "cs": "Zavolej někomu staršímu z rodiny, vyžádej si sváteční recept, který zná jen on, a uvař ho.",
+            "sk": "Zavolaj niekomu staršiemu z rodiny, vypýtaj si sviatočný recept, ktorý pozná len on, a uvar ho.",
+            "de": "Ruf ein älteres Familienmitglied an, lass dir ein Festtagsrezept geben, das nur sie kennen, und koch es.",
+            "es": "Llama a un familiar mayor, pídele una receta de fiesta que solo conozca esa persona y cocínala.",
+            "pt": "Liga a um familiar mais velho, pede uma receita de festa que só essa pessoa conhece e cozinha-a."
+          }
+        },
+        {
+          "id": "ql.winter2026.5",
+          "category": "random",
+          "difficulty": "funAndSafe",
+          "title": {
+            "en": "Gift It Forward",
+            "cs": "Daruj to dál",
+            "sk": "Daruj to ďalej",
+            "de": "Weiterschenken",
+            "es": "Regálalo de nuevo",
+            "pt": "Passa a prenda"
+          },
+          "description": {
+            "en": "Give away something you own that someone else would love more than you do.",
+            "cs": "Daruj něco, co vlastníš a co by někdo jiný miloval víc než ty.",
+            "sk": "Daruj niečo, čo vlastníš a čo by niekto iný miloval viac ako ty.",
+            "de": "Verschenke etwas, das du besitzt und das jemand anderes mehr lieben würde als du.",
+            "es": "Regala algo tuyo que otra persona disfrutaría más que tú.",
+            "pt": "Oferece algo teu que outra pessoa ia adorar mais do que tu."
+          }
+        },
+        {
+          "id": "ql.winter2026.6",
+          "category": "physical",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "Cold Open",
+            "cs": "Studený start",
+            "sk": "Studený štart",
+            "de": "Kalter Start",
+            "es": "Arranque helado",
+            "pt": "Arranque gelado"
+          },
+          "description": {
+            "en": "Be outside before sunrise and watch the sun come up. No phone until it's fully up.",
+            "cs": "Buď venku před východem slunce a sleduj, jak vychází. Žádný telefon, dokud není celé nahoře.",
+            "sk": "Buď vonku pred východom slnka a sleduj, ako vychádza. Žiadny telefón, kým nie je celé hore.",
+            "de": "Sei vor Sonnenaufgang draußen und sieh zu, wie die Sonne aufgeht. Kein Handy, bis sie ganz oben ist.",
+            "es": "Sal antes del amanecer y mira salir el sol. Nada de celular hasta que esté completamente arriba.",
+            "pt": "Está na rua antes do nascer do sol e vê-o nascer. Nada de telemóvel até ele estar todo cá em cima."
+          }
+        },
+        {
+          "id": "ql.winter2026.7",
+          "category": "social",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "The Long-Lost Call",
+            "cs": "Dlouho ztracený hovor",
+            "sk": "Dlho stratený hovor",
+            "de": "Der lange überfällige Anruf",
+            "es": "La llamada pendiente",
+            "pt": "A chamada esquecida"
+          },
+          "description": {
+            "en": "Call — don't text — someone you haven't spoken to this year and wish them happy holidays.",
+            "cs": "Zavolej — nepiš — někomu, s kým jsi letos nemluvil, a popřej mu krásné svátky.",
+            "sk": "Zavolaj — nepíš — niekomu, s kým si tento rok nehovoril, a zaželaj mu krásne sviatky.",
+            "de": "Ruf jemanden an – keine Nachricht –, mit dem du dieses Jahr nicht gesprochen hast, und wünsch schöne Feiertage.",
+            "es": "Llama —no escribas— a alguien con quien no hayas hablado este año y deséale felices fiestas.",
+            "pt": "Liga — não escrevas — a alguém com quem não falaste este ano e deseja-lhe boas festas."
+          }
+        },
+        {
+          "id": "ql.winter2026.8",
+          "category": "creative",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "Winter Sculptor",
+            "cs": "Zimní sochař",
+            "sk": "Zimný sochár",
+            "de": "Winterbildhauer",
+            "es": "Escultor de invierno",
+            "pt": "Escultor de inverno"
+          },
+          "description": {
+            "en": "Build something out of snow, ice, or whatever winter gives you, and leave it in public for strangers to find.",
+            "cs": "Postav něco ze sněhu, ledu nebo čehokoli, co ti zima dá, a nech to venku pro náhodné kolemjdoucí.",
+            "sk": "Postav niečo zo snehu, ľadu alebo čohokoľvek, čo ti zima dá, a nechaj to vonku pre náhodných okoloidúcich.",
+            "de": "Bau etwas aus Schnee, Eis oder was der Winter dir sonst gibt, und lass es draußen für Fremde zum Entdecken.",
+            "es": "Construye algo con nieve, hielo o lo que te dé el invierno, y déjalo en un lugar público para que lo encuentren.",
+            "pt": "Constrói algo com neve, gelo ou o que o inverno te der, e deixa-o num sítio público para desconhecidos encontrarem."
+          }
+        },
+        {
+          "id": "ql.winter2026.9",
+          "category": "exploration",
+          "difficulty": "mildlyInconvenient",
+          "title": {
+            "en": "Year-End Summit",
+            "cs": "Vrchol na konci roku",
+            "sk": "Vrchol na konci roka",
+            "de": "Gipfel zum Jahresende",
+            "es": "Cumbre de fin de año",
+            "pt": "Cume de fim de ano"
+          },
+          "description": {
+            "en": "Climb the highest point you can reach on foot near you. Up there, name the three best moments of your year.",
+            "cs": "Vylez pěšky na nejvyšší místo, kam se v okolí dostaneš. Nahoře vyjmenuj tři nejlepší momenty svého roku.",
+            "sk": "Vyjdi pešo na najvyššie miesto, kam sa v okolí dostaneš. Hore vymenuj tri najlepšie momenty svojho roka.",
+            "de": "Steig zu Fuß auf den höchsten Punkt in deiner Nähe. Nenne oben die drei besten Momente deines Jahres.",
+            "es": "Sube a pie al punto más alto que tengas cerca. Allá arriba, nombra los tres mejores momentos de tu año.",
+            "pt": "Sobe a pé ao ponto mais alto que consigas perto de ti. Lá em cima, diz os três melhores momentos do teu ano."
+          }
+        },
+        {
+          "id": "ql.winter2026.10",
+          "category": "physical",
+          "difficulty": "probablyShouldnt",
+          "title": {
+            "en": "The First Plunge",
+            "cs": "První ponor",
+            "sk": "Prvý ponor",
+            "de": "Der erste Sprung",
+            "es": "La primera zambullida",
+            "pt": "O primeiro mergulho"
+          },
+          "description": {
+            "en": "Start the new year with a cold-water dip — sea, lake, or an ice-cold shower if there's no safe water. Never alone, and get warm right after.",
+            "cs": "Začni nový rok otužováním — moře, jezero, nebo ledová sprcha, když není bezpečná voda. Nikdy sám a hned se zahřej.",
+            "sk": "Začni nový rok otužovaním — more, jazero, alebo ľadová sprcha, ak nie je bezpečná voda. Nikdy sám a hneď sa zohrej.",
+            "de": "Starte ins neue Jahr mit einem Sprung ins kalte Wasser – Meer, See oder eiskalte Dusche, wenn es kein sicheres Gewässer gibt. Nie allein, danach sofort aufwärmen.",
+            "es": "Empieza el año con un chapuzón en agua fría: mar, lago o una ducha helada si no hay agua segura. Nunca solo, y abrígate enseguida.",
+            "pt": "Começa o ano com um mergulho em água fria — mar, lago ou um duche gelado se não houver água segura. Nunca sozinho, e aquece-te logo a seguir."
           }
         }
       ]
